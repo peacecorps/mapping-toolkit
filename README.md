@@ -30,6 +30,8 @@ ________
 
 ##GIS Tutorials
 
+
+
 ##Events
 
 ##Blog Posts and Case Studies
@@ -40,11 +42,15 @@ ________
 
 ##Talks and Presentations
 
-###State of the Map 2015
+####State of the Map 2015
 
 [O.S.M.B.A: The Future and History of Companies in OpenStreetMap, Randy Meech] (http://stateofthemap.us/osmba-the-history-and-future-of-companies-in-openstreetmap/)
 
 ##In the Press
+
+[GOTUS Steps out at the first ever White House Mapathon] (http://www.cnn.com/videos/politics/2015/06/01/first-annual-white-house-mapathon.cnn) includes shout-outs to Peace Corps and our student mapper, Charlie. Not shown in the video are the three Botswana PCVs who addressed the White House audience via Google Hangout. 
+
+[Alice Deal Middle School' podcast] (http://dealmartini.podomatic.com/entry/2015-05-21T18_22_21-07_00) features their GIS club's experience mapping for Peace Corps communities on OSM. May 21, 2015
 
 
 
