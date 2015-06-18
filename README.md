@@ -13,9 +13,11 @@ ________
 
 Peace Corps Volunteers, staff and counterparts who use OpenStreetMap and other geospatial data in their work are encouraged to do so with the following principles in mind:
 
-1. Data that can be open and accessible should be open and accessible. In other words, if you collect geospatial data doesn't include personal or sensitive information, you should include it in OpenStreetMap so that others may benefit from your work. Data should also be stored in machine-readable formats.
+1. Data that can be open and accessible should be open and accessible. In other words, if you collect geospatial data that would be of genuine interest to the public, such as points of interest or alternate names of villages, you should include it in OpenStreetMap so that others may benefit from your work. Data should be stored in machine-readable formats such as spreadsheets or CSV files, rather than PDFs, when possible. For an introduction to open data, read the Open Knowledge Foundation's [Open Data Handbook.] (https://drive.google.com/file/d/0B0Vr8VHoYeB7U2NTczFYRE01RU0/view)
 
-2. Data collection requires responsibility and intentional planning. Some data that Peace Corps Volunteers and their colleagues could contain 
+2. Data collection requires responsibility and intentional planning. Some data that Peace Corps Volunteers and their colleagues collect and use -- for example, in public health projects -- could contain personal and sensitive information about humans that needs to be well-protected and secured. Humans > data, always. For solid tips on data responsibility, read ["Shooting our hard drive into space and other ways to practice responsible development data".] (https://drive.google.com/file/d/0B0Vr8VHoYeB7cEk1STFlRTJjOWM/edit) 
+
+3. 
 
 [Peace Corps OpenStreetMap "Projects in Box"] (https://drive.google.com/open?id=0BxqYHzBUSr1NfnBlV2dnMVNhNmlCcC1zcnFqV204VVEzdXNvQmpNamkwMmhqZ0U3U214SWc&authuser=0) were written specifically for PCVs in the field and counterparts to put their communities on OSM in innovative ways. Content includes a Community Mapping Training Guide (in the Points of Interest doc) and guides to throwing mapping parties, adding local points of interest to OSM, bike and map tours, OSM map murals and more.  
 
