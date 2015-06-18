@@ -50,6 +50,12 @@ ________
 
 ##Promoting Diversity in Mapping
 
+[OpenStreetMap Wiki page on OpenStreetMap] (https://wiki.openstreetmap.org/wiki/Diversity) 
+
+[Improving Diversity in OpenStreetMap] (http://stateofthemap.us/improving-diversity-in-osm/) Kathleen Danielson, MapZen and OpenStreetMap Foundation, State of the Map 2015
+
+[The Threads of OSM Discussions: Are the Doors Really Open?] (http://vimeopro.com/openstreetmapus/state-of-the-map-us-2013/video/68098504) Alyssa Wright, MapZen
+
 ##Talks and Presentations
 
 ####State of the Map 2015
