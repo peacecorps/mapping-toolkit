@@ -13,6 +13,12 @@ ________
 
 [Peace Corps OpenStreetMap "Projects in Box"] (https://drive.google.com/open?id=0BxqYHzBUSr1NfnBlV2dnMVNhNmlCcC1zcnFqV204VVEzdXNvQmpNamkwMmhqZ0U3U214SWc&authuser=0) were written specifically for PCVs in the field and counterparts to put their communities on OSM in innovative ways. Content includes a Community Mapping Training Guide (in the Points of Interest doc) and guides to throwing mapping parties, adding local points of interest to OSM, bike and map tours, OSM map murals and more.  
 
+Projects in a Box include:
+1. One Day Project: Mapping Party
+2. One Week Project: Community Mapping Training and Mapping Points of Interest
+3. One Week Project: Bike and Map Tour
+4. One Month Project: OpenStreetMap Wall Mural
+
 ##[Current Peace Corps OSM stats] (http://powerful-mesa-2776.herokuapp.com/)
 
 ##OSM Tutorials/Guides
