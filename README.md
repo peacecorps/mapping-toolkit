@@ -142,6 +142,36 @@ Ghana
 
 [Wiki] (https://wiki.openstreetmap.org/wiki/Ghana)
 
+Kenya
+
+[Facebook (Map Kibera)] (https://www.facebook.com/groups/mapkibera/)
+
+[Twitter (Map Kibera)] (https://twitter.com/mapkibera)
+
+[Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Kenya)
+
+Lesotho
+
+[Facebook] (https://www.facebook.com/pages/Openstreetmap-Lesotho/329150610614519?fref=ts)
+
+[Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Lesotho)
+
+Liberia
+
+[Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Liberia)
+
+Madagascar
+
+[Facebook] (https://www.facebook.com/OpenStreetMap.Madagascar?fref=ts)
+
+[Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Madagascar)
+
+Malawi 
+
+[Facebook] (https://www.facebook.com/groups/osm.mw/)
+
+[Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Malawi)
+
 Mali
 
 [Facebook] (https://www.facebook.com/pages/Openstreetmap-Mali/909615379063102?fref=ts)
@@ -150,11 +180,31 @@ Mali
 
 [Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Mali)
 
+Mozambique
+
+[Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Mozambique)
+
 Morocco
 
 [Twitter] (https://twitter.com/OsmMaroc)
 
 [Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Morocco)
+
+Namibia
+
+[Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Mozambique)
+
+Niger
+
+[Facebook] (https://www.facebook.com/pages/Communaut%C3%A9-Openstreetmap-Niger/286598368203969?fref=ts)
+
+[Twitter] (https://twitter.com/OSM_NE)
+
+[Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Niger)
+
+Rwanda
+
+[Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Rwanda)
 
 Peru
 
@@ -163,6 +213,7 @@ Peru
 [Twitter] (https://twitter.com/osmpe)
 
 [Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Per%C3%BA)
+
 
 Senegal
 
