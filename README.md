@@ -86,8 +86,6 @@ Projects in a Box include:
 
 [Types of Data Visualization,] (http://homes.cs.washington.edu/~jheer//files/zoo/) Jeffrey Heer, Michael Bostock, and Vadim Ogievetsky of Stanford University. 
 
-##Events
-
 ##Blog Posts and Case Studies
 
 ["'Re mmogo!' The White House, Peace Corps and You -- Together We Can Map Botswana"] (http://passport.peacecorps.gov/2015/05/26/re-mmogo-the-white-house-peace-corps-and-you-together-we-can-map-botswana/). May 26, 2015, by Theresa Govert, Mike Banfield and Christy Nekvinda. Peace Corps Passport.
@@ -97,6 +95,59 @@ Projects in a Box include:
 [OSM Humanitarian and Government Case Studies] (http://osmlab.github.io/basket/)
 
 ##Country-specific Local OSM Communities
+
+Benin
+[Facebook] (https://www.facebook.com/groups/openstreetmapbenin/)
+[Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Benin)
+
+Botswana
+[Twitter] (https://twitter.com/MappingBotswana)
+[Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Botswana)
+
+
+Burkina Faso
+[Twitter] (https://twitter.com/OSM_BF)
+[Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Burkina_Faso)
+
+Cameroon
+[Facebook] (https://www.facebook.com/groups/openstreetmap.cameroun/)
+[Twitter] (https://twitter.com/OSMCameroun)
+[Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Cameroon)
+
+Ghana
+[Facebook] (https://www.facebook.com/OpenStreetMapGhana?fref=ts)
+[Wiki] (https://wiki.openstreetmap.org/wiki/Ghana)
+
+Mali
+[Facebook] (https://www.facebook.com/pages/Openstreetmap-Mali/909615379063102?fref=ts)
+[Twitter] (https://twitter.com/MapMali)
+[Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Mali)
+
+Morocco
+[Twitter] (https://twitter.com/OsmMaroc)
+[Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Morocco)
+
+Peru
+[Facebook] (https://www.facebook.com/osmpe?fref=ts)
+[Twitter] (https://twitter.com/osmpe)
+[Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Per%C3%BA)
+
+Senegal
+[Facebook] (https://www.facebook.com/OpenStreetMap.Senegal)
+[Twitter] (https://twitter.com/OpenStreetMapSn)
+[Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Senegal)
+
+Tanzania
+[Facebook] (https://www.facebook.com/osmtanzania)
+[Twitter] (https://twitter.com/OSM_TZ)
+[Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Tanzania)
+
+Togo
+[Facebook] (https://www.facebook.com/OpenstreetmapTogo?fref=ts)
+[Twitter] (https://twitter.com/OSMTogo)
+[Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Togo)
+
+##Events
 
 ##Email lists
 
