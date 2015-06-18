@@ -9,3 +9,7 @@ ________
 
 #OpenStreetMap (OSM) Toolkit
 
+##Principles and Toolkits
+
+Peace Corps OpenStreetMap "Projects in Box" were written specifically for PCVs in the field and counterparts to put their communities on OSM in innovative ways. Content includes a Community Mapping Training Guide (in the Points of Interest doc) and guides to throwing mapping parties, adding local points of interest to OSM, bike and map tours, OSM map murals and more.  https://drive.google.com/open?id=0BxqYHzBUSr1NfnBlV2dnMVNhNmlCcC1zcnFqV204VVEzdXNvQmpNamkwMmhqZ0U3U214SWc&authuser=0
+
