@@ -40,6 +40,8 @@ ________
 
 [Mapping and the Power of the Crowd: Peace Corps' Response to Disaster in Vanuatu] (http://passport.peacecorps.gov/2015/04/03/mapping-and-the-power-of-the-crowd-peace-corps-response-to-disaster-in-vanuatu/). April 3, 2015, by Courtney Clark. Peace Corps Passport. 
 
+[OSM Humanitarian and Government Case Studies] (http://osmlab.github.io/basket/)
+
 ##Country-specific Local OSM Communities
 
 ##Promoting Diversity in Mapping
