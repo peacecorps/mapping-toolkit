@@ -36,9 +36,9 @@ ________
 
 ##Blog Posts and Case Studies
 
-['Re mmogo!' The White House, Peace Corps and You -- Together We Can Map Botswana] (http://passport.peacecorps.gov/2015/05/26/re-mmogo-the-white-house-peace-corps-and-you-together-we-can-map-botswana/). May 26, 2015, Peace Corps Passport.
+["'Re mmogo!' The White House, Peace Corps and You -- Together We Can Map Botswana"] (http://passport.peacecorps.gov/2015/05/26/re-mmogo-the-white-house-peace-corps-and-you-together-we-can-map-botswana/). May 26, 2015, by Theresa Govert, Mike Banfield and Christy Nekvinda. Peace Corps Passport.
 
-[Mapping and the Power of the Crowd: Peace Corps' Response to Disaster in Vanuatu] (http://passport.peacecorps.gov/2015/04/03/mapping-and-the-power-of-the-crowd-peace-corps-response-to-disaster-in-vanuatu/). April 3, 2015. Peace Corps Passport. 
+[Mapping and the Power of the Crowd: Peace Corps' Response to Disaster in Vanuatu] (http://passport.peacecorps.gov/2015/04/03/mapping-and-the-power-of-the-crowd-peace-corps-response-to-disaster-in-vanuatu/). April 3, 2015, by Courtney Clark. Peace Corps Passport. 
 
 ##Country-specific Local OSM Communities
 
