@@ -29,7 +29,7 @@ Data collection and OpenStreetMap activities should intentionally promote divers
 
 Human Centered Design emphasizes empathy, optimism, learning from failure and rapid iteration -- the hallmarks of any great Peace Corps project. These principles should drive any data collection or OpenStreetMap activity. To learn more about how to use Human Centered Design in your Peace Corps work (highly recommended!), see IDEO's [Design Kit and Field Guide to Human Centered Design.] (http://www.designkit.org/)
 
-[Peace Corps OpenStreetMap "Projects in Box"] (https://drive.google.com/open?id=0BxqYHzBUSr1NfnBlV2dnMVNhNmlCcC1zcnFqV204VVEzdXNvQmpNamkwMmhqZ0U3U214SWc&authuser=0) were written specifically for PCVs in the field and counterparts to put their communities on OSM in innovative ways. Content includes a Community Mapping Training Guide (in the Points of Interest doc) and guides to throwing mapping parties, adding local points of interest to OSM, bike and map tours, OSM map murals and more.  
+[Peace Corps OpenStreetMap "Projects in Box"] (https://drive.google.com/open?id=0BxqYHzBUSr1NfnBlV2dnMVNhNmlCcC1zcnFqV204VVEzdXNvQmpNamkwMmhqZ0U3U214SWc&authuser=0) were written specifically for PCVs in the field and counterparts to put their communities on OSM in innovative ways. This content includes a Community Mapping Training Guide (in the Points of Interest doc) and guides to throwing mapping parties, adding local points of interest to OSM, bike and map tours, OSM map murals and more.  
 
 Projects in a Box include:
 
@@ -49,6 +49,8 @@ Projects in a Box include:
 
 [LearnOSM] (http://learnosm.org/en/) offers tutorials on a variety of OSM topics, including the iD editor, the JOSM editor, Field Papers, organizing mapping trainings, remote mappings, using a GPS device and more. Tutorials are in English, German, French, Croatian, Bahasa Indonesia, Italian, Chinese, Norwegian, Portuguese, Russian and Kiswahili. 
 
+[TeachOSM] (http://teachosm.org/en/) offers a great curriculum for educators to incorporate OSM into their classrooms. The site includes assessment tools and case studies. 
+
 [Basics of Geodata and Open Mapping,] (https://www.youtube.com/watch?v=LZaa8jIUDVY) Max Richman for Tech Change on Youtube. January 20, 2015. 
 
 ##OSM Tools
@@ -60,7 +62,7 @@ Projects in a Box include:
 [MapOSMatic] (http://www.maposmatic.org/) is a free software web service that allows you to generate maps of cities using OpenStreetMap data. The generated maps are available in PNG, PDF and SVG formats and are ready to be printed.
 
 
-##GIS Tutorials
+##GIS (Geographic Information System) Tutorials
 
 [CartoDB Map Academy.] (http://academy.cartodb.com/) Learn to create maps on the web and visualize geospatial data using CartoDB.
 
@@ -69,6 +71,10 @@ Projects in a Box include:
 [QGIS Tutorials and Tips] (http://www.qgistutorials.com/en/)
 
 [QGIS Walkthrough.] (https://www.youtube.com/watch?v=L0r1GNTT-0o) TechChange on Youtube. February 12, 2015. 
+
+[Penn State Open Educational Resources -- Geography.] (http://open.ems.psu.edu/courseware) Penn State offers a wide range of free online geography and GIS courses, including Problem-Solving with GIS, Cartography and Visualization, Open Web Mapping, and Location Intelligence for Business. 
+
+[Harvard Introduction to GIS.] (http://hcl.harvard.edu/libraries/maps/gis/tutorials.html) This introduction to GIS tutorial consists of a three-part movie accompanied by hands-on exercises. An ArcGIS license is required to complete the exercises. 
 
 ##Events
 
