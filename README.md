@@ -76,6 +76,14 @@ Projects in a Box include:
 
 [Harvard Introduction to GIS.] (http://hcl.harvard.edu/libraries/maps/gis/tutorials.html) This introduction to GIS tutorial consists of a three-part movie accompanied by hands-on exercises. An ArcGIS license is required to complete the exercises. 
 
+##Data Visualization Tutorials
+
+[The Quick and Dirty on Data Visualization,] (https://hbr.org/2014/04/the-quick-and-dirty-on-data-visualization/) Harvard Business Review. April 16, 2014.
+
+[Data Visualizations Done Wrong,] (https://www.youtube.com/watch?v=lb7JaPIeEE4) Noah Iliinsky for ORD Camp on Youtube. February 20, 2012.
+
+[Types of Data Visualization,] (http://homes.cs.washington.edu/~jheer//files/zoo/) Jeffrey Heer, Michael Bostock, and Vadim Ogievetsky of Stanford University. 
+
 ##Events
 
 ##Blog Posts and Case Studies
@@ -87,6 +95,10 @@ Projects in a Box include:
 [OSM Humanitarian and Government Case Studies] (http://osmlab.github.io/basket/)
 
 ##Country-specific Local OSM Communities
+
+##Email lists
+
+
 
 ##Promoting Diversity in Mapping
 
