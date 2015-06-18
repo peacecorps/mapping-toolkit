@@ -45,7 +45,7 @@ Projects in a Box include:
 
 ##[Current Peace Corps OSM stats] (http://powerful-mesa-2776.herokuapp.com/)
 
-##OSM Tutorials/Guides
+##OSM Tutorials
 
 [MapGive] (www.mapgive.state.gov) is an initiative of the State Department's Humanitarian Information Unit. MapGive features several highly recommended video tutorials explaining the importance of OSM for humanitarian response and how to edit using the iD editor.
 
