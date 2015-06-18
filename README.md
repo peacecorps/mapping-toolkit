@@ -13,11 +13,21 @@ ________
 
 Peace Corps Volunteers, staff and counterparts who use OpenStreetMap and other geospatial data in their work are encouraged to do so with the following principles in mind:
 
-1. Data that can be open and accessible should be open and accessible. In other words, if you collect geospatial data that would be of genuine interest to the public, such as points of interest or alternate names of villages, you should include it in OpenStreetMap so that others may benefit from your work. Data should be stored in machine-readable formats such as spreadsheets or CSV files, rather than PDFs, when possible. For an introduction to open data, read the Open Knowledge Foundation's [Open Data Handbook.] (https://drive.google.com/file/d/0B0Vr8VHoYeB7U2NTczFYRE01RU0/view)
+####1. Open data
 
-2. Data collection requires responsibility and intentional planning. Some data that Peace Corps Volunteers and their colleagues collect and use -- for example, in public health projects -- could contain personal and sensitive information about humans that needs to be well-protected and secured. Humans > data, always. For solid tips on data responsibility, read ["Shooting our hard drive into space and other ways to practice responsible development data".] (https://drive.google.com/file/d/0B0Vr8VHoYeB7cEk1STFlRTJjOWM/edit) 
+Data that can be open and accessible should be open and accessible. In other words, if you collect geospatial data that would be of genuine interest to the public, such as points of interest or alternate names of villages, you should include it in OpenStreetMap so that others may benefit from your work. Data should be stored in machine-readable formats such as spreadsheets or CSV files, rather than PDFs, when possible. For an introduction to open data, read the Open Knowledge Foundation's [Open Data Handbook.] (https://drive.google.com/file/d/0B0Vr8VHoYeB7U2NTczFYRE01RU0/view)
 
-3. 
+####2. Responsible data collection
+
+Data collection requires responsibility and intentional planning. Some data that Peace Corps Volunteers and their colleagues collect and use -- for example, in public health projects -- could contain personal and sensitive information about humans that needs to be well-protected and secured. Humans > data, always. For solid tips on data responsibility, read ["Shooting our hard drive into space and other ways to practice responsible development data".] (https://drive.google.com/file/d/0B0Vr8VHoYeB7cEk1STFlRTJjOWM/edit) 
+
+####3. Diversity and inclusivity
+
+Data collection and OpenStreetMap activities should intentionally promote diversity and inclusivity. Peace Corps Volunteers and counterparts should include minority populations, such as women, in their data collection and OpenStreetMap projects. Data collection tends to incorporate implicit biases, especially regarding women and groups that don't identify with binary genders. For more information, read TechChange's ["The Case for Gender Data".] (https://www.techchange.org/2015/04/17/global-development-gender-data/)
+
+####4. Human Centered Design
+
+Human Centered Design emphasizes empathy, optimism, learning from failure and rapid iteration -- the hallmarks of any great Peace Corps project. These principles should drive any data collection or OpenStreetMap activity. To learn more about how to use Human Centered Design in your Peace Corps work (highly recommended!), see IDEO's [Design Kit and Field Guide to Human Centered Design.] (http://www.designkit.org/)
 
 [Peace Corps OpenStreetMap "Projects in Box"] (https://drive.google.com/open?id=0BxqYHzBUSr1NfnBlV2dnMVNhNmlCcC1zcnFqV204VVEzdXNvQmpNamkwMmhqZ0U3U214SWc&authuser=0) were written specifically for PCVs in the field and counterparts to put their communities on OSM in innovative ways. Content includes a Community Mapping Training Guide (in the Points of Interest doc) and guides to throwing mapping parties, adding local points of interest to OSM, bike and map tours, OSM map murals and more.  
 
