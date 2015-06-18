@@ -13,7 +13,18 @@ ________
 
 [Peace Corps OpenStreetMap "Projects in Box"] (https://drive.google.com/open?id=0BxqYHzBUSr1NfnBlV2dnMVNhNmlCcC1zcnFqV204VVEzdXNvQmpNamkwMmhqZ0U3U214SWc&authuser=0) were written specifically for PCVs in the field and counterparts to put their communities on OSM in innovative ways. Content includes a Community Mapping Training Guide (in the Points of Interest doc) and guides to throwing mapping parties, adding local points of interest to OSM, bike and map tours, OSM map murals and more.  
 
-##OSM Tutorials
+##[Current Peace Corps OSM stats] (http://powerful-mesa-2776.herokuapp.com/)
+
+##OSM Tutorials/Guides
+
+[MapGive] (www.mapgive.state.gov) is an initiative of the State Department's Humanitarian Information Unit. MapGive features several highly recommended video tutorials explaining the importance of OSM for humanitarian response and how to edit using the iD editor.
+
+[LearnOSM] (http://learnosm.org/en/) offers tutorials on a variety of OSM topics, including the iD editor, the JOSM editor, Field Papers, organizing mapping trainings, remote mappings, using a GPS device and more. Tutorials are in English, German, French, Croatian, Bahasa Indonesia, Italian, Chinese, Norwegian, Portuguese, Russian, Kiswahili and 
+
+[Big Map] (http://wiki.openstreetmap.org/wiki/Bigmap) is a free software web service that allows you to print large maps of OSM data from your browser.
+
+[MapOSMatic] (http://www.maposmatic.org/) is a free software web service that allows you to generate maps of cities using OpenStreetMap data. The generated maps are available in PNG, PDF and SVG formats and are ready to be printed.
+
 
 ##GIS Tutorials
 
@@ -24,6 +35,12 @@ ________
 ##Country-specific Local OSM Communities
 
 ##Promoting Diversity in Mapping
+
+##Talks and Presentations
+
+###State of the Map 2015
+
+[O.S.M.B.A: The Future and History of Companies in OpenStreetMap, Randy Meech] (http://stateofthemap.us/osmba-the-history-and-future-of-companies-in-openstreetmap/)
 
 ##In the Press
 
