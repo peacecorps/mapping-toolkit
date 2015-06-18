@@ -94,57 +94,98 @@ Projects in a Box include:
 
 [OSM Humanitarian and Government Case Studies] (http://osmlab.github.io/basket/)
 
-##Country-specific Local OSM Communities
+##Local OSM Communities in Peace Corps Countries
 
 Benin
+
 [Facebook] (https://www.facebook.com/groups/openstreetmapbenin/)
+
 [Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Benin)
 
 Botswana
+
 [Twitter] (https://twitter.com/MappingBotswana)
+
 [Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Botswana)
 
-
 Burkina Faso
+
 [Twitter] (https://twitter.com/OSM_BF)
+
 [Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Burkina_Faso)
 
 Cameroon
+
 [Facebook] (https://www.facebook.com/groups/openstreetmap.cameroun/)
+
 [Twitter] (https://twitter.com/OSMCameroun)
+
 [Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Cameroon)
 
+Comoros
+
+[Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Comoros)
+
+Ethiopia
+
+[Twitter] (https://twitter.com/osm_ethiopia)
+
+[Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Ethiopia)
+
+Guinea
+
+[Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Guinea)
+
 Ghana
+
 [Facebook] (https://www.facebook.com/OpenStreetMapGhana?fref=ts)
+
 [Wiki] (https://wiki.openstreetmap.org/wiki/Ghana)
 
 Mali
+
 [Facebook] (https://www.facebook.com/pages/Openstreetmap-Mali/909615379063102?fref=ts)
+
 [Twitter] (https://twitter.com/MapMali)
+
 [Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Mali)
 
 Morocco
+
 [Twitter] (https://twitter.com/OsmMaroc)
+
 [Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Morocco)
 
 Peru
+
 [Facebook] (https://www.facebook.com/osmpe?fref=ts)
+
 [Twitter] (https://twitter.com/osmpe)
+
 [Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Per%C3%BA)
 
 Senegal
+
 [Facebook] (https://www.facebook.com/OpenStreetMap.Senegal)
+
 [Twitter] (https://twitter.com/OpenStreetMapSn)
+
 [Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Senegal)
 
 Tanzania
+
 [Facebook] (https://www.facebook.com/osmtanzania)
+
 [Twitter] (https://twitter.com/OSM_TZ)
+
 [Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Tanzania)
 
 Togo
+
 [Facebook] (https://www.facebook.com/OpenstreetmapTogo?fref=ts)
+
 [Twitter] (https://twitter.com/OSMTogo)
+
 [Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Togo)
 
 ##Events
