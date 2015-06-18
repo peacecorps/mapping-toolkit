@@ -21,6 +21,10 @@ ________
 
 [LearnOSM] (http://learnosm.org/en/) offers tutorials on a variety of OSM topics, including the iD editor, the JOSM editor, Field Papers, organizing mapping trainings, remote mappings, using a GPS device and more. Tutorials are in English, German, French, Croatian, Bahasa Indonesia, Italian, Chinese, Norwegian, Portuguese, Russian and Kiswahili. 
 
+[CartoDB Map Academy] (http://academy.cartodb.com/) Learn to create maps on the web and visualize geospatial data using CartoDB. 
+
+##OSM Tools
+
 [Maps.me] (http://maps.me/en/home) allows you to download fast, detailed and completely offline maps for mobile devices. 
 
 [Big Map] (http://wiki.openstreetmap.org/wiki/Bigmap) is a free software web service that allows you to print large maps of OSM data from your browser.
