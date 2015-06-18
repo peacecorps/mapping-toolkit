@@ -36,6 +36,10 @@ ________
 
 ##Blog Posts and Case Studies
 
+['Re mmogo!' The White House, Peace Corps and You -- Together We Can Map Botswana] (http://passport.peacecorps.gov/2015/05/26/re-mmogo-the-white-house-peace-corps-and-you-together-we-can-map-botswana/). May 26, 2015, Peace Corps Passport.
+
+[Mapping and the Power of the Crowd: Peace Corps' Response to Disaster in Vanuatu] (http://passport.peacecorps.gov/2015/04/03/mapping-and-the-power-of-the-crowd-peace-corps-response-to-disaster-in-vanuatu/). April 3, 2015. Peace Corps Passport. 
+
 ##Country-specific Local OSM Communities
 
 ##Promoting Diversity in Mapping
@@ -48,9 +52,9 @@ ________
 
 ##In the Press
 
-[GOTUS Steps out at the first ever White House Mapathon] (http://www.cnn.com/videos/politics/2015/06/01/first-annual-white-house-mapathon.cnn) includes shout-outs to Peace Corps and our student mapper, Charlie. Not shown in the video are the three Botswana PCVs who addressed the White House audience via Google Hangout. 
+[GOTUS Steps out at the first ever White House Mapathon] (http://www.cnn.com/videos/politics/2015/06/01/first-annual-white-house-mapathon.cnn) includes shout-outs to Peace Corps and our student mapper, Charlie. Not shown in the video are the three Botswana PCVs who addressed the White House audience via Google Hangout. June 1, 2015.
 
-[Alice Deal Middle School' podcast] (http://dealmartini.podomatic.com/entry/2015-05-21T18_22_21-07_00) features their GIS club's experience mapping for Peace Corps communities on OSM. May 21, 2015
+[Alice Deal Middle School's podcast] (http://dealmartini.podomatic.com/entry/2015-05-21T18_22_21-07_00) features the GIS club's experience mapping for Peace Corps communities on OSM. May 21, 2015
 
 
 
