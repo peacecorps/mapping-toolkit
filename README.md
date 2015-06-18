@@ -11,6 +11,12 @@ ________
 
 ##Principles and Toolkits
 
+Peace Corps Volunteers, staff and counterparts who use OpenStreetMap and other geospatial data in their work are encouraged to do so with the following principles in mind:
+
+1. Data that can be open and accessible should be open and accessible. In other words, if you collect geospatial data doesn't include personal or sensitive information, you should include it in OpenStreetMap so that others may benefit from your work. Data should also be stored in machine-readable formats.
+
+2. Data collection requires responsibility and intentional planning. Some data that Peace Corps Volunteers and their colleagues could contain 
+
 [Peace Corps OpenStreetMap "Projects in Box"] (https://drive.google.com/open?id=0BxqYHzBUSr1NfnBlV2dnMVNhNmlCcC1zcnFqV204VVEzdXNvQmpNamkwMmhqZ0U3U214SWc&authuser=0) were written specifically for PCVs in the field and counterparts to put their communities on OSM in innovative ways. Content includes a Community Mapping Training Guide (in the Points of Interest doc) and guides to throwing mapping parties, adding local points of interest to OSM, bike and map tours, OSM map murals and more.  
 
 Projects in a Box include:
