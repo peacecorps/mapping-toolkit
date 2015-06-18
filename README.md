@@ -29,7 +29,9 @@ Data collection and OpenStreetMap activities should intentionally promote divers
 
 Human Centered Design emphasizes empathy, optimism, learning from failure and rapid iteration -- the hallmarks of any great Peace Corps project. These principles should drive any data collection or OpenStreetMap activity. To learn more about how to use Human Centered Design in your Peace Corps work (highly recommended!), see IDEO's [Design Kit and Field Guide to Human Centered Design.] (http://www.designkit.org/)
 
-[Peace Corps OpenStreetMap "Projects in Box"] (https://drive.google.com/open?id=0BxqYHzBUSr1NfnBlV2dnMVNhNmlCcC1zcnFqV204VVEzdXNvQmpNamkwMmhqZ0U3U214SWc&authuser=0) were written specifically for PCVs in the field and counterparts to put their communities on OSM in innovative ways. This content includes a Community Mapping Training Guide (in the Points of Interest doc) and guides to throwing mapping parties, adding local points of interest to OSM, bike and map tours, OSM map murals and more.  
+####Peace Corps OpenStreetMap Projects in a Box
+
+[Peace Corps OSM "Projects in Box"] (https://drive.google.com/open?id=0BxqYHzBUSr1NfnBlV2dnMVNhNmlCcC1zcnFqV204VVEzdXNvQmpNamkwMmhqZ0U3U214SWc&authuser=0) were written specifically for PCVs in the field and counterparts to put their communities on OSM in innovative ways. This content includes a Community Mapping Training Guide (in the Points of Interest doc) and guides to throwing mapping parties, adding local points of interest to OSM, bike and map tours, OSM map murals and more.  
 
 Projects in a Box include:
 
