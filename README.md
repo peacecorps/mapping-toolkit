@@ -50,17 +50,17 @@ ________
 
 [All State of the Map 2015 talks] (http://stateofthemap.us/program/)
 
-[OpenStreetMap and Peace Corps,] Courtney Clark, Peace Corps Innovation Fellow (http://stateofthemap.us/osm-in-peace-corps/)
+[OpenStreetMap and Peace Corps,] (http://stateofthemap.us/osm-in-peace-corps/) Courtney Clark, Peace Corps Innovation Fellow 
 
-[Your Neighbor is Mapping,] Heather Leson, Humanitarian OpenStreetMap Team and Ivan Gayton, Medecins sans Frontieres (http://stateofthemap.us/your-neighbour-is-mapping/)
+[Your Neighbor is Mapping,] (http://stateofthemap.us/your-neighbour-is-mapping/) Heather Leson, Humanitarian OpenStreetMap Team and Ivan Gayton, Medecins sans Frontieres 
 
-[For Government, OpenStreetMap is More than Excellent Data. It's a Transformation.] Mikel Maron, Presidential Innovation Fellow and MapGive (http://stateofthemap.us/for-government-openstreetmap-is-more-than-excellent-data-its-a-transformation/)
+[For Government, OpenStreetMap is More than Excellent Data. It's a Transformation.] (http://stateofthemap.us/for-government-openstreetmap-is-more-than-excellent-data-its-a-transformation/) Mikel Maron, Presidential Innovation Fellow and MapGive 
 
-[Missing Maps,] Drishtie Patel, GIS analyst at the American Red Cross (http://stateofthemap.us/missing-maps/)
+[Missing Maps,] (http://stateofthemap.us/missing-maps/) Drishtie Patel, GIS analyst at the American Red Cross 
 
-[OpenMapKit,] Dale Kunce, Senior Geospatial Engineer at the American Red Cross (http://stateofthemap.us/openmapkit/_)
+[OpenMapKit,] (http://stateofthemap.us/openmapkit/_) Dale Kunce, Senior Geospatial Engineer at the American Red Cross 
 
-[O.S.M.B.A: The Future and History of Companies in OpenStreetMap,] Randy Meech, CEO MapZen (http://stateofthemap.us/osmba-the-history-and-future-of-companies-in-openstreetmap/)
+[O.S.M.B.A: The Future and History of Companies in OpenStreetMap,] (http://stateofthemap.us/osmba-the-history-and-future-of-companies-in-openstreetmap/) Randy Meech, CEO MapZen 
 
 ##In the Press
 
