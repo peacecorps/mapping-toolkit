@@ -21,7 +21,7 @@ ________
 
 [LearnOSM] (http://learnosm.org/en/) offers tutorials on a variety of OSM topics, including the iD editor, the JOSM editor, Field Papers, organizing mapping trainings, remote mappings, using a GPS device and more. Tutorials are in English, German, French, Croatian, Bahasa Indonesia, Italian, Chinese, Norwegian, Portuguese, Russian and Kiswahili. 
 
-[CartoDB Map Academy] (http://academy.cartodb.com/) Learn to create maps on the web and visualize geospatial data using CartoDB. 
+[Basics of Geodata and Open Mapping,] (https://www.youtube.com/watch?v=LZaa8jIUDVY) Max Richman for Tech Change on Youtube. January 20, 2015. 
 
 ##OSM Tools
 
@@ -34,7 +34,13 @@ ________
 
 ##GIS Tutorials
 
+[CartoDB Map Academy.] (http://academy.cartodb.com/) Learn to create maps on the web and visualize geospatial data using CartoDB.
 
+[Mapbox] (https://www.mapbox.com/)
+
+[QGIS Tutorials and Tips] (http://www.qgistutorials.com/en/)
+
+[QGIS Walkthrough.] (https://www.youtube.com/watch?v=L0r1GNTT-0o) TechChange on Youtube. February 12, 2015. 
 
 ##Events
 
