@@ -96,25 +96,25 @@ Projects in a Box include:
 
 ##Local OSM Communities in Peace Corps Countries
 
-Benin
+Benin:
 
 [Facebook] (https://www.facebook.com/groups/openstreetmapbenin/)
 
 [Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Benin)
 
-Botswana
+Botswana:
 
 [Twitter] (https://twitter.com/MappingBotswana)
 
 [Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Botswana)
 
-Burkina Faso
+Burkina Faso:
 
 [Twitter] (https://twitter.com/OSM_BF)
 
 [Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Burkina_Faso)
 
-Cameroon
+Cameroon:
 
 [Facebook] (https://www.facebook.com/groups/openstreetmap.cameroun/)
 
@@ -122,27 +122,27 @@ Cameroon
 
 [Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Cameroon)
 
-Comoros
+Comoros:
 
 [Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Comoros)
 
-Ethiopia
+Ethiopia:
 
 [Twitter] (https://twitter.com/osm_ethiopia)
 
 [Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Ethiopia)
 
-Guinea
+Guinea:
 
 [Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Guinea)
 
-Ghana
+Ghana:
 
 [Facebook] (https://www.facebook.com/OpenStreetMapGhana?fref=ts)
 
 [Wiki] (https://wiki.openstreetmap.org/wiki/Ghana)
 
-Kenya
+Kenya:
 
 [Facebook (Map Kibera)] (https://www.facebook.com/groups/mapkibera/)
 
@@ -150,29 +150,29 @@ Kenya
 
 [Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Kenya)
 
-Lesotho
+Lesotho:
 
 [Facebook] (https://www.facebook.com/pages/Openstreetmap-Lesotho/329150610614519?fref=ts)
 
 [Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Lesotho)
 
-Liberia
+Liberia:
 
 [Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Liberia)
 
-Madagascar
+Madagascar:
 
 [Facebook] (https://www.facebook.com/OpenStreetMap.Madagascar?fref=ts)
 
 [Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Madagascar)
 
-Malawi 
+Malawi:
 
 [Facebook] (https://www.facebook.com/groups/osm.mw/)
 
 [Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Malawi)
 
-Mali
+Mali:
 
 [Facebook] (https://www.facebook.com/pages/Openstreetmap-Mali/909615379063102?fref=ts)
 
@@ -184,17 +184,17 @@ Mozambique
 
 [Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Mozambique)
 
-Morocco
+Morocco:
 
 [Twitter] (https://twitter.com/OsmMaroc)
 
 [Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Morocco)
 
-Namibia
+Namibia:
 
 [Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Mozambique)
 
-Niger
+Niger:
 
 [Facebook] (https://www.facebook.com/pages/Communaut%C3%A9-Openstreetmap-Niger/286598368203969?fref=ts)
 
@@ -202,11 +202,11 @@ Niger
 
 [Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Niger)
 
-Rwanda
+Rwanda:
 
 [Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Rwanda)
 
-Peru
+Peru:
 
 [Facebook] (https://www.facebook.com/osmpe?fref=ts)
 
@@ -214,14 +214,17 @@ Peru
 
 [Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Per%C3%BA)
 
-
-Senegal
+Senegal:
 
 [Facebook] (https://www.facebook.com/OpenStreetMap.Senegal)
 
 [Twitter] (https://twitter.com/OpenStreetMapSn)
 
 [Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Senegal)
+
+Sierra Leone:
+
+[Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Sierra_Leone)
 
 Tanzania
 
