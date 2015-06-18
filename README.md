@@ -50,7 +50,7 @@ ________
 
 ##Promoting Diversity in Mapping
 
-[OpenStreetMap Wiki page on OpenStreetMap] (https://wiki.openstreetmap.org/wiki/Diversity) 
+[OpenStreetMap Wiki page on Diversity in OSM] (https://wiki.openstreetmap.org/wiki/Diversity) 
 
 [Improving Diversity in OpenStreetMap] (http://stateofthemap.us/improving-diversity-in-osm/) Kathleen Danielson, MapZen and OpenStreetMap Foundation, State of the Map 2015
 
