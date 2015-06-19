@@ -143,6 +143,19 @@ Projects in a Box include:
 
 ##Local OSM Communities in Peace Corps Countries
 
+Albania
+
+* [Facebook] (https://www.facebook.com/OpenStreetMapAlbania?fref=ts)
+* [Wiki] (http://wiki.openstreetmap.org/wiki/WikiProject_Albania)
+
+Armenia
+
+* [Wiki] (http://wiki.openstreetmap.org/wiki/WikiProject_Armenia)
+
+Belize:
+
+* [Wiki] (http://wiki.openstreetmap.org/wiki/WikiProject_Belize)
+
 Benin:
 
 * [Facebook] (https://www.facebook.com/groups/openstreetmapbenin/)
@@ -158,20 +171,40 @@ Burkina Faso:
 * [Twitter] (https://twitter.com/OSM_BF)
 * [Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Burkina_Faso)
 
+Cambodia:
+
+* [Facebook] (https://www.facebook.com/pages/OSM-Cambodia/218656624834943)
+* [Twitter] (https://twitter.com/OSM_KH)
+* [Wiki] (http://wiki.openstreetmap.org/wiki/WikiProject_Cambodia)
+
 Cameroon:
 
 * [Facebook] (https://www.facebook.com/groups/openstreetmap.cameroun/)
 * [Twitter] (https://twitter.com/OSMCameroun)
 * [Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Cameroon)
 
+China: private surveying and mapping activities are illegal in China, including OpenStreetMap. See the [wiki] (http://wiki.openstreetmap.org/wiki/WikiProject_China).
+
 Comoros:
 
 * [Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Comoros)
+
+Costa Rica:
+
+* [Wiki] (http://wiki.openstreetmap.org/wiki/WikiProject_Costa_Rica)
+
+Dominican Republic:
+
+* [Wiki] (http://wiki.openstreetmap.org/wiki/WikiProject_Dominican_Republic)
 
 Ethiopia:
 
 * [Twitter] (https://twitter.com/osm_ethiopia)
 * [Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Ethiopia)
+
+Guatemala
+
+* [Wiki] (http://wiki.openstreetmap.org/wiki/WikiProject_Guatemala)
 
 Guinea:
 
@@ -181,6 +214,16 @@ Ghana:
 
 * [Facebook] (https://www.facebook.com/OpenStreetMapGhana?fref=ts)
 * [Wiki] (https://wiki.openstreetmap.org/wiki/Ghana)
+
+Indonesia:
+
+* [Facebook] (https://www.facebook.com/groups/osm.id/)
+* [Twitter] (https://twitter.com/OSM_ID)
+* [Wiki] (http://wiki.openstreetmap.org/wiki/WikiProject_Indonesia)
+
+Jamaica:
+
+* [Wiki] (http://wiki.openstreetmap.org/wiki/WikiProject_Jamaica)
 
 Kenya:
 
@@ -213,6 +256,14 @@ Mali:
 * [Twitter] (https://twitter.com/MapMali)
 * [Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Mali)
 
+Mexico:
+
+* [Wiki] (http://wiki.openstreetmap.org/wiki/WikiProject_Mexico)
+
+Mongolia:
+
+* [Wiki] (http://wiki.openstreetmap.org/wiki/WikiProject_Mongolia)
+
 Mozambique
 
 * [Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Mozambique)
@@ -226,21 +277,43 @@ Namibia:
 
 * [Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Mozambique)
 
+Nepal:
+
+* [Kathmandu Living Labs Facebook] (https://www.facebook.com/kathmandulivinglabs?fref=ts)
+* [Kathmandu Living Labs Twitter] (https://twitter.com/search?q=Kathmandu&src=tyah)
+* [Wiki] (http://wiki.openstreetmap.org/wiki/WikiProject_Nepal)
+
+Nicaragua:
+
+* [Wiki] (http://wiki.openstreetmap.org/wiki/WikiProject_Nicaragua)
+
+* [Facebook] (https://www.facebook.com/mapanica)
+* [Wiki] (http://wiki.openstreetmap.org/wiki/WikiProject_Nicaragua)
+
 Niger:
 
 * [Facebook] (https://www.facebook.com/pages/Communaut%C3%A9-Openstreetmap-Niger/286598368203969?fref=ts)
 * [Twitter] (https://twitter.com/OSM_NE)
 * [Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Niger)
 
-Rwanda:
+Panama:
 
-* [Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Rwanda)
+* [Wiki] (http://wiki.openstreetmap.org/wiki/WikiProject_Panama)
 
 Peru:
 
 * [Facebook] (https://www.facebook.com/osmpe?fref=ts)
 * [Twitter] (https://twitter.com/osmpe)
 * [Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Per%C3%BA)
+
+Philippines
+
+* [Facebook] (https://www.facebook.com/OSMPH?fref=ts)
+* [Wiki] (http://wiki.openstreetmap.org/wiki/WikiProject_Philippines)
+
+Rwanda:
+
+* [Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Rwanda)
 
 Senegal:
 
@@ -252,17 +325,43 @@ Sierra Leone:
 
 * [Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Sierra_Leone)
 
+South Africa:
+
+* [Wiki] (http://wiki.openstreetmap.org/wiki/WikiProject_South_Africa)
+
+Swaziland:
+
+* [Wiki] (http://wiki.openstreetmap.org/wiki/WikiProject_Swaziland)
+
 Tanzania
 
 * [Facebook] (https://www.facebook.com/osmtanzania)
 * [Twitter] (https://twitter.com/OSM_TZ)
 * [Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Tanzania)
 
-Togo
+Thailand
+
+* [Wiki] (http://wiki.openstreetmap.org/wiki/WikiProject_Thailand)
+
+The Gambia:
+
+* [Wiki] (http://wiki.openstreetmap.org/wiki/WikiProject_The_Gambia)
+
+Togo:
 
 * [Facebook] (https://www.facebook.com/OpenstreetmapTogo?fref=ts)
 * [Twitter] (https://twitter.com/OSMTogo)
 * [Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Togo)
+
+Uganda: 
+
+* [Facebook] (https://www.facebook.com/pages/OpenStreetMap-Uganda/863951250327532)
+* [Twitter] (https://twitter.com/mapuganda)
+* [Wiki] (http://wiki.openstreetmap.org/wiki/WikiProject_Uganda)
+
+Zambia:
+
+* [Wiki] (http://wiki.openstreetmap.org/wiki/WikiProject_Zambia)
 
 ##Events
 
