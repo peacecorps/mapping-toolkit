@@ -93,15 +93,19 @@ Projects in a Box include:
 
 ##Blog Posts and Case Studies
 
+[OSM for Malaria Eradication in Botswana Case Study.] (https://drive.google.com/file/d/0BxqYHzBUSr1NRzlKNk01ekdONE0/view?usp=sharing) By Theresa Govert and Mike Banfield, Peace Corps Botswana. February 2015. 
+
 ["'Re mmogo!' The White House, Peace Corps and You -- Together We Can Map Botswana".] (http://passport.peacecorps.gov/2015/05/26/re-mmogo-the-white-house-peace-corps-and-you-together-we-can-map-botswana/) By Theresa Govert, Mike Banfield and Christy Nekvinda, Peace Corps Botswana. May 26, 2015, Peace Corps Passport.
 
 ["Mapping and the Power of the Crowd: Peace Corps' Response to Disaster in Vanuatu".] (http://passport.peacecorps.gov/2015/04/03/mapping-and-the-power-of-the-crowd-peace-corps-response-to-disaster-in-vanuatu/) By Courtney Clark, Peace Corps Innovation Fellow. April 3, 2015, Peace Corps Passport. 
 
 ["A Break in the Clouds for Open-Source Mapping".] (http://thenicadventure.com/2015/02/11/a-break-in-the-clouds-for-open-source-mapping/) By Conor Sanchez, Peace Corps Nicaragua. February 11, 2015.
 
+["Botswana Weekly Awesome: How do you eat an elephant?"] (http://stompoutmalaria.org/botswana-weekly-awesome-how-do-you-eat-an-elephant/) By Theresa Govert, Peace Corps Botswana. October 30, 2014, Stomp Out Malaria. 
+
 [OSM Humanitarian and Government Case Studies] (http://osmlab.github.io/basket/)
 
-["For government, OpenStreetMap is more than excellent data. It's a transformation".] (http://openstreetmap.us/2015/03/government-and-openstreetmap/) By Mikel Maron. March 2015, OpenStreetMap.US.
+["For government, OpenStreetMap is more than excellent data. It's a transformation".] (http://openstreetmap.us/2015/03/government-and-openstreetmap/) By Mikel Maron, Presidential Innovation Fellow and MapGive. March 2015, OpenStreetMap.US.
 
 ##Promoting Diversity in Mapping
 
