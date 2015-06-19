@@ -137,9 +137,11 @@ Projects in a Box include:
 
 ##In the Press
 
+["Let Data Drive Your Projects"] (http://issuu.com/peacecorps/docs/pc-15-q2-116_pages_center/1?e=3593068/13460098) features Peace Corps Botswana's use of OSM and GIS tools for malaria eradication. June, 2015, _Peace Corps Times_
+
 [GOTUS Steps out at the first ever White House Mapathon] (http://www.cnn.com/videos/politics/2015/06/01/first-annual-white-house-mapathon.cnn) includes shout-outs to Peace Corps and our student mapper, Charlie. Not shown in the video are the three Botswana PCVs who addressed the White House audience via Google Hangout. June 1, 2015.
 
-[Alice Deal Middle School's podcast] (http://dealmartini.podomatic.com/entry/2015-05-21T18_22_21-07_00) features the GIS club's experience mapping for Peace Corps communities on OSM. May 21, 2015
+[Alice Deal Middle School's podcast] (http://dealmartini.podomatic.com/entry/2015-05-21T18_22_21-07_00) features the GIS club's experience mapping for Peace Corps communities on OSM. May 21, 2015.
 
 ##Local OSM Communities in Peace Corps Countries
 
