@@ -143,6 +143,12 @@ Projects in a Box include:
 
 [Alice Deal Middle School's podcast] (http://dealmartini.podomatic.com/entry/2015-05-21T18_22_21-07_00) features the GIS club's experience mapping for Peace Corps communities on OSM. May 21, 2015.
 
+##Events
+
+##Email lists
+
+There are a wide variety of OSM email lists that might be of interest to Peace Corps Volunteers, staff and counterparts. These include the Humanitarian OpenStreetMap Team, diversity, newbies, and the general list. Some country groups also have their own email lists that can keep you updated on events and trainings in your Peace Corps country. To see the full list of the lists and to suscribe, click [here] (https://lists.openstreetmap.org/listinfo). 
+
 ##Local OSM Communities in Peace Corps Countries
 
 Albania:
@@ -425,8 +431,6 @@ Zambia:
 
 * [Wiki] (http://wiki.openstreetmap.org/wiki/WikiProject_Zambia)
 
-##Events
 
-##Email lists
 
 
