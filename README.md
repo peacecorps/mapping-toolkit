@@ -43,7 +43,11 @@ Projects in a Box include:
 
 4. One Month Project: OpenStreetMap Wall Mural
 
-##[Current Peace Corps OSM stats] (http://powerful-mesa-2776.herokuapp.com/)
+##Right Now in Peace Corps
+
+[Current Peace Corps OSM stats] (http://powerful-mesa-2776.herokuapp.com/)
+
+[Current Peace Corps Tasking Manager tasks] (http://tasks.hotosm.org/?sort_by=priority&direction=asc&search=peace+corps)
 
 ##OSM Tutorials
 
@@ -56,6 +60,8 @@ Projects in a Box include:
 [Basics of Geodata and Open Mapping,] (https://www.youtube.com/watch?v=LZaa8jIUDVY) Max Richman for Tech Change on Youtube. January 20, 2015. 
 
 ##OSM Tools
+
+[Field Papers] (http://fieldpapers.org/) allow you to print an atlas, record what you see in the world through street mapping, and upload the data to OpenStreetMap. 
 
 [Maps.me] (http://maps.me/en/home) allows you to download fast, detailed and completely offline maps for mobile devices. 
 
@@ -92,6 +98,8 @@ Projects in a Box include:
 [Mapping and the Power of the Crowd: Peace Corps' Response to Disaster in Vanuatu] (http://passport.peacecorps.gov/2015/04/03/mapping-and-the-power-of-the-crowd-peace-corps-response-to-disaster-in-vanuatu/). April 3, 2015, by Courtney Clark. Peace Corps Passport. 
 
 [OSM Humanitarian and Government Case Studies] (http://osmlab.github.io/basket/)
+
+["For government, OpenStreetMap is more than excellent data. It's a transformation",] (http://openstreetmap.us/2015/03/government-and-openstreetmap/) March 2015, by Mikel Maron. OpenStreetMap.US
 
 ##Promoting Diversity in Mapping
 
