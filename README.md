@@ -102,143 +102,119 @@ Benin:
 
 Botswana:
 
-[Twitter] (https://twitter.com/MappingBotswana)
-
-[Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Botswana)
+* [Twitter] (https://twitter.com/MappingBotswana)
+* [Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Botswana)
 
 Burkina Faso:
 
-[Twitter] (https://twitter.com/OSM_BF)
-
-[Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Burkina_Faso)
+* [Twitter] (https://twitter.com/OSM_BF)
+* [Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Burkina_Faso)
 
 Cameroon:
 
-[Facebook] (https://www.facebook.com/groups/openstreetmap.cameroun/)
-
-[Twitter] (https://twitter.com/OSMCameroun)
-
-[Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Cameroon)
+* [Facebook] (https://www.facebook.com/groups/openstreetmap.cameroun/)
+* [Twitter] (https://twitter.com/OSMCameroun)
+* [Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Cameroon)
 
 Comoros:
 
-[Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Comoros)
+* [Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Comoros)
 
 Ethiopia:
 
-[Twitter] (https://twitter.com/osm_ethiopia)
-
-[Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Ethiopia)
+* [Twitter] (https://twitter.com/osm_ethiopia)
+* [Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Ethiopia)
 
 Guinea:
 
-[Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Guinea)
+* [Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Guinea)
 
 Ghana:
 
-[Facebook] (https://www.facebook.com/OpenStreetMapGhana?fref=ts)
-
-[Wiki] (https://wiki.openstreetmap.org/wiki/Ghana)
+* [Facebook] (https://www.facebook.com/OpenStreetMapGhana?fref=ts)
+* [Wiki] (https://wiki.openstreetmap.org/wiki/Ghana)
 
 Kenya:
 
-[Facebook (Map Kibera)] (https://www.facebook.com/groups/mapkibera/)
-
-[Twitter (Map Kibera)] (https://twitter.com/mapkibera)
-
-[Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Kenya)
+* [Facebook (Map Kibera)] (https://www.facebook.com/groups/mapkibera/)
+* [Twitter (Map Kibera)] (https://twitter.com/mapkibera)
+* [Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Kenya)
 
 Lesotho:
 
-[Facebook] (https://www.facebook.com/pages/Openstreetmap-Lesotho/329150610614519?fref=ts)
-
-[Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Lesotho)
+* [Facebook] (https://www.facebook.com/pages/Openstreetmap-Lesotho/329150610614519?fref=ts)
+* [Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Lesotho)
 
 Liberia:
 
-[Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Liberia)
+* [Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Liberia)
 
 Madagascar:
 
-[Facebook] (https://www.facebook.com/OpenStreetMap.Madagascar?fref=ts)
-
-[Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Madagascar)
+* [Facebook] (https://www.facebook.com/OpenStreetMap.Madagascar?fref=ts)
+* [Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Madagascar)
 
 Malawi:
 
-[Facebook] (https://www.facebook.com/groups/osm.mw/)
-
-[Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Malawi)
+* [Facebook] (https://www.facebook.com/groups/osm.mw/)
+* [Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Malawi)
 
 Mali:
 
-[Facebook] (https://www.facebook.com/pages/Openstreetmap-Mali/909615379063102?fref=ts)
-
-[Twitter] (https://twitter.com/MapMali)
-
-[Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Mali)
+* [Facebook] (https://www.facebook.com/pages/Openstreetmap-Mali/909615379063102?fref=ts)
+* [Twitter] (https://twitter.com/MapMali)
+* [Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Mali)
 
 Mozambique
 
-[Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Mozambique)
+* [Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Mozambique)
 
 Morocco:
 
-[Twitter] (https://twitter.com/OsmMaroc)
-
-[Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Morocco)
+* [Twitter] (https://twitter.com/OsmMaroc)
+* [Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Morocco)
 
 Namibia:
 
-[Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Mozambique)
+* [Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Mozambique)
 
 Niger:
 
-[Facebook] (https://www.facebook.com/pages/Communaut%C3%A9-Openstreetmap-Niger/286598368203969?fref=ts)
-
-[Twitter] (https://twitter.com/OSM_NE)
-
-[Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Niger)
+* [Facebook] (https://www.facebook.com/pages/Communaut%C3%A9-Openstreetmap-Niger/286598368203969?fref=ts)
+* [Twitter] (https://twitter.com/OSM_NE)
+* [Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Niger)
 
 Rwanda:
 
-[Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Rwanda)
+* [Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Rwanda)
 
 Peru:
 
-[Facebook] (https://www.facebook.com/osmpe?fref=ts)
-
-[Twitter] (https://twitter.com/osmpe)
-
-[Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Per%C3%BA)
+* [Facebook] (https://www.facebook.com/osmpe?fref=ts)
+* [Twitter] (https://twitter.com/osmpe)
+* [Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Per%C3%BA)
 
 Senegal:
 
-[Facebook] (https://www.facebook.com/OpenStreetMap.Senegal)
-
-[Twitter] (https://twitter.com/OpenStreetMapSn)
-
-[Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Senegal)
+* [Facebook] (https://www.facebook.com/OpenStreetMap.Senegal)
+* [Twitter] (https://twitter.com/OpenStreetMapSn)
+* [Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Senegal)
 
 Sierra Leone:
 
-[Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Sierra_Leone)
+* [Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Sierra_Leone)
 
 Tanzania
 
-[Facebook] (https://www.facebook.com/osmtanzania)
-
-[Twitter] (https://twitter.com/OSM_TZ)
-
-[Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Tanzania)
+* [Facebook] (https://www.facebook.com/osmtanzania)
+* [Twitter] (https://twitter.com/OSM_TZ)
+* [Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Tanzania)
 
 Togo
 
-[Facebook] (https://www.facebook.com/OpenstreetmapTogo?fref=ts)
-
-[Twitter] (https://twitter.com/OSMTogo)
-
-[Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Togo)
+* [Facebook] (https://www.facebook.com/OpenstreetmapTogo?fref=ts)
+* [Twitter] (https://twitter.com/OSMTogo)
+* [Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Togo)
 
 ##Events
 
