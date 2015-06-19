@@ -339,6 +339,10 @@ Panama:
 
 * [Wiki] (http://wiki.openstreetmap.org/wiki/WikiProject_Panama)
 
+Paraguay:
+
+* [Wiki] (http://wiki.openstreetmap.org/wiki/WikiProject_Paraguay)
+
 Peru:
 
 * [Facebook] (https://www.facebook.com/osmpe?fref=ts)
