@@ -63,7 +63,6 @@ Projects in a Box include:
 
 [MapOSMatic] (http://www.maposmatic.org/) is a free software web service that allows you to generate maps of cities using OpenStreetMap data. The generated maps are available in PNG, PDF and SVG formats and are ready to be printed.
 
-
 ##GIS (Geographic Information System) Tutorials
 
 [CartoDB Map Academy.] (http://academy.cartodb.com/) Learn to create maps on the web and visualize geospatial data using CartoDB.
@@ -98,9 +97,8 @@ Projects in a Box include:
 
 Benin:
 
-[Facebook] (https://www.facebook.com/groups/openstreetmapbenin/)
-
-[Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Benin)
+* [Facebook] (https://www.facebook.com/groups/openstreetmapbenin/)
+* [Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Benin)
 
 Botswana:
 
