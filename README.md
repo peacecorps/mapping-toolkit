@@ -143,14 +143,19 @@ Projects in a Box include:
 
 ##Local OSM Communities in Peace Corps Countries
 
-Albania
+Albania:
 
 * [Facebook] (https://www.facebook.com/OpenStreetMapAlbania?fref=ts)
 * [Wiki] (http://wiki.openstreetmap.org/wiki/WikiProject_Albania)
 
-Armenia
+Armenia:
 
 * [Wiki] (http://wiki.openstreetmap.org/wiki/WikiProject_Armenia)
+
+Azerbaijan:
+
+* [Facebook] (https://www.facebook.com/pages/OSM-Azerbaijan/178488705567357?fref=ts)
+* [Wiki] (http://wiki.openstreetmap.org/wiki/WikiProject_Azerbaijan)
 
 Belize:
 
@@ -202,6 +207,10 @@ Ethiopia:
 * [Twitter] (https://twitter.com/osm_ethiopia)
 * [Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Ethiopia)
 
+Fiji:
+
+* [Wiki] (http://wiki.openstreetmap.org/wiki/WikiProject_Fiji)
+
 Guatemala
 
 * [Wiki] (http://wiki.openstreetmap.org/wiki/WikiProject_Guatemala)
@@ -215,6 +224,11 @@ Ghana:
 * [Facebook] (https://www.facebook.com/OpenStreetMapGhana?fref=ts)
 * [Wiki] (https://wiki.openstreetmap.org/wiki/Ghana)
 
+Georgia:
+
+* [Facebook] (https://www.facebook.com/groups/osmgeorgia/)
+* [Wiki] (http://wiki.openstreetmap.org/wiki/WikiProject_Georgia_Abkhazia_South-Ossetia)
+
 Indonesia:
 
 * [Facebook] (https://www.facebook.com/groups/osm.id/)
@@ -227,9 +241,13 @@ Jamaica:
 
 Kenya:
 
-* [Facebook (Map Kibera)] (https://www.facebook.com/groups/mapkibera/)
-* [Twitter (Map Kibera)] (https://twitter.com/mapkibera)
+* [Facebook] (Map Kibera)] (https://www.facebook.com/groups/mapkibera/)
+* [Twitter] (Map Kibera)] (https://twitter.com/mapkibera)
 * [Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Kenya)
+
+Kosovo:
+
+* [Wiki] (http://wiki.openstreetmap.org/wiki/WikiProject_Kosovo)
 
 Lesotho:
 
@@ -239,6 +257,10 @@ Lesotho:
 Liberia:
 
 * [Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Liberia)
+
+Macedonia:
+
+* [Wiki] (http://wiki.openstreetmap.org/wiki/WikiProject_Macedonia)
 
 Madagascar:
 
@@ -259,6 +281,10 @@ Mali:
 Mexico:
 
 * [Wiki] (http://wiki.openstreetmap.org/wiki/WikiProject_Mexico)
+
+Moldova:
+
+* [Wiki] (http://wiki.openstreetmap.org/wiki/WikiProject_Moldova)
 
 Mongolia:
 
@@ -315,6 +341,10 @@ Rwanda:
 
 * [Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Rwanda)
 
+Samoa:
+
+* [Wiki] (http://wiki.openstreetmap.org/wiki/Samoa)
+
 Senegal:
 
 * [Facebook] (https://www.facebook.com/OpenStreetMap.Senegal)
@@ -358,6 +388,11 @@ Uganda:
 * [Facebook] (https://www.facebook.com/pages/OpenStreetMap-Uganda/863951250327532)
 * [Twitter] (https://twitter.com/mapuganda)
 * [Wiki] (http://wiki.openstreetmap.org/wiki/WikiProject_Uganda)
+
+Ukraine:
+
+* [Twitter] (https://twitter.com/osm_ukraine)
+* [Wiki] (http://wiki.openstreetmap.org/wiki/Uk:%D0%92%D1%96%D0%BA%D1%96%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B0)
 
 Zambia:
 
