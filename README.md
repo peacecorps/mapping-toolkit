@@ -190,6 +190,10 @@ Cameroon:
 
 China: private surveying and mapping activities are illegal in China, including OpenStreetMap. See the [wiki] (http://wiki.openstreetmap.org/wiki/WikiProject_China).
 
+Colombia:
+
+* [Wiki] (http://wiki.openstreetmap.org/wiki/WikiProject_Colombia)
+
 Comoros:
 
 * [Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Comoros)
@@ -202,6 +206,11 @@ Dominican Republic:
 
 * [Wiki] (http://wiki.openstreetmap.org/wiki/WikiProject_Dominican_Republic)
 
+Ecuador
+
+* [Twitter] (https://twitter.com/OSM_Ecuador)
+* [Wiki] (http://wiki.openstreetmap.org/wiki/WikiProject_Ecuador)
+
 Ethiopia:
 
 * [Twitter] (https://twitter.com/osm_ethiopia)
@@ -211,6 +220,11 @@ Fiji:
 
 * [Wiki] (http://wiki.openstreetmap.org/wiki/WikiProject_Fiji)
 
+Ghana:
+
+* [Facebook] (https://www.facebook.com/OpenStreetMapGhana?fref=ts)
+* [Wiki] (https://wiki.openstreetmap.org/wiki/Ghana)
+
 Guatemala
 
 * [Wiki] (http://wiki.openstreetmap.org/wiki/WikiProject_Guatemala)
@@ -219,10 +233,9 @@ Guinea:
 
 * [Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Guinea)
 
-Ghana:
+Guyana:
 
-* [Facebook] (https://www.facebook.com/OpenStreetMapGhana?fref=ts)
-* [Wiki] (https://wiki.openstreetmap.org/wiki/Ghana)
+* [Wiki] (http://wiki.openstreetmap.org/wiki/WikiProject_Guyana)
 
 Georgia:
 
@@ -373,6 +386,10 @@ Thailand
 
 * [Wiki] (http://wiki.openstreetmap.org/wiki/WikiProject_Thailand)
 
+Tonga
+
+* [Wiki] (http://wiki.openstreetmap.org/wiki/WikiProject_Tonga)
+
 The Gambia:
 
 * [Wiki] (http://wiki.openstreetmap.org/wiki/WikiProject_The_Gambia)
@@ -393,6 +410,10 @@ Ukraine:
 
 * [Twitter] (https://twitter.com/osm_ukraine)
 * [Wiki] (http://wiki.openstreetmap.org/wiki/Uk:%D0%92%D1%96%D0%BA%D1%96%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B0)
+
+Vanuatu:
+
+* [Wiki] (http://wiki.openstreetmap.org/wiki/Vanuatu)
 
 Zambia:
 
