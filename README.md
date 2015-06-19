@@ -262,8 +262,8 @@ Jamaica:
 
 Kenya:
 
-* [Facebook] (Map Kibera)] (https://www.facebook.com/groups/mapkibera/)
-* [Twitter] (Map Kibera)] (https://twitter.com/mapkibera)
+* [Facebook for Map Kibera in Nairobi] (https://www.facebook.com/groups/mapkibera/)
+* [Twitter for Map Kibera in Nairobi] (https://twitter.com/mapkibera)
 * [Wiki] (https://wiki.openstreetmap.org/wiki/WikiProject_Kenya)
 
 Kosovo:
