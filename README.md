@@ -93,6 +93,38 @@ Projects in a Box include:
 
 [OSM Humanitarian and Government Case Studies] (http://osmlab.github.io/basket/)
 
+##Promoting Diversity in Mapping
+
+[OpenStreetMap Wiki page on Diversity in OSM] (https://wiki.openstreetmap.org/wiki/Diversity) 
+
+[Improving Diversity in OpenStreetMap] (http://stateofthemap.us/improving-diversity-in-osm/) Kathleen Danielson, MapZen and OpenStreetMap Foundation, State of the Map 2015
+
+[The Threads of OSM Discussions: Are the Doors Really Open?] (http://vimeopro.com/openstreetmapus/state-of-the-map-us-2013/video/68098504) Alyssa Wright, MapZen
+
+##Talks and Presentations
+
+####State of the Map 2015
+
+[All State of the Map 2015 talks] (http://stateofthemap.us/program/)
+
+[OpenStreetMap and Peace Corps,] (http://stateofthemap.us/osm-in-peace-corps/) Courtney Clark, Peace Corps Innovation Fellow 
+
+[Your Neighbor is Mapping,] (http://stateofthemap.us/your-neighbour-is-mapping/) Heather Leson, Humanitarian OpenStreetMap Team and Ivan Gayton, Medecins sans Frontieres 
+
+[For Government, OpenStreetMap is More than Excellent Data. It's a Transformation.] (http://stateofthemap.us/for-government-openstreetmap-is-more-than-excellent-data-its-a-transformation/) Mikel Maron, Presidential Innovation Fellow and MapGive 
+
+[Missing Maps,] (http://stateofthemap.us/missing-maps/) Drishtie Patel, GIS analyst at the American Red Cross 
+
+[OpenMapKit,] (http://stateofthemap.us/openmapkit/_) Dale Kunce, Senior Geospatial Engineer at the American Red Cross 
+
+[O.S.M.B.A: The Future and History of Companies in OpenStreetMap,] (http://stateofthemap.us/osmba-the-history-and-future-of-companies-in-openstreetmap/) Randy Meech, CEO MapZen 
+
+##In the Press
+
+[GOTUS Steps out at the first ever White House Mapathon] (http://www.cnn.com/videos/politics/2015/06/01/first-annual-white-house-mapathon.cnn) includes shout-outs to Peace Corps and our student mapper, Charlie. Not shown in the video are the three Botswana PCVs who addressed the White House audience via Google Hangout. June 1, 2015.
+
+[Alice Deal Middle School's podcast] (http://dealmartini.podomatic.com/entry/2015-05-21T18_22_21-07_00) features the GIS club's experience mapping for Peace Corps communities on OSM. May 21, 2015
+
 ##Local OSM Communities in Peace Corps Countries
 
 Benin:
@@ -219,40 +251,5 @@ Togo
 ##Events
 
 ##Email lists
-
-
-
-##Promoting Diversity in Mapping
-
-[OpenStreetMap Wiki page on Diversity in OSM] (https://wiki.openstreetmap.org/wiki/Diversity) 
-
-[Improving Diversity in OpenStreetMap] (http://stateofthemap.us/improving-diversity-in-osm/) Kathleen Danielson, MapZen and OpenStreetMap Foundation, State of the Map 2015
-
-[The Threads of OSM Discussions: Are the Doors Really Open?] (http://vimeopro.com/openstreetmapus/state-of-the-map-us-2013/video/68098504) Alyssa Wright, MapZen
-
-##Talks and Presentations
-
-####State of the Map 2015
-
-[All State of the Map 2015 talks] (http://stateofthemap.us/program/)
-
-[OpenStreetMap and Peace Corps,] (http://stateofthemap.us/osm-in-peace-corps/) Courtney Clark, Peace Corps Innovation Fellow 
-
-[Your Neighbor is Mapping,] (http://stateofthemap.us/your-neighbour-is-mapping/) Heather Leson, Humanitarian OpenStreetMap Team and Ivan Gayton, Medecins sans Frontieres 
-
-[For Government, OpenStreetMap is More than Excellent Data. It's a Transformation.] (http://stateofthemap.us/for-government-openstreetmap-is-more-than-excellent-data-its-a-transformation/) Mikel Maron, Presidential Innovation Fellow and MapGive 
-
-[Missing Maps,] (http://stateofthemap.us/missing-maps/) Drishtie Patel, GIS analyst at the American Red Cross 
-
-[OpenMapKit,] (http://stateofthemap.us/openmapkit/_) Dale Kunce, Senior Geospatial Engineer at the American Red Cross 
-
-[O.S.M.B.A: The Future and History of Companies in OpenStreetMap,] (http://stateofthemap.us/osmba-the-history-and-future-of-companies-in-openstreetmap/) Randy Meech, CEO MapZen 
-
-##In the Press
-
-[GOTUS Steps out at the first ever White House Mapathon] (http://www.cnn.com/videos/politics/2015/06/01/first-annual-white-house-mapathon.cnn) includes shout-outs to Peace Corps and our student mapper, Charlie. Not shown in the video are the three Botswana PCVs who addressed the White House audience via Google Hangout. June 1, 2015.
-
-[Alice Deal Middle School's podcast] (http://dealmartini.podomatic.com/entry/2015-05-21T18_22_21-07_00) features the GIS club's experience mapping for Peace Corps communities on OSM. May 21, 2015
-
 
 
