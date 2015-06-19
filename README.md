@@ -105,6 +105,8 @@ Projects in a Box include:
 
 [OSM Humanitarian and Government Case Studies] (http://osmlab.github.io/basket/)
 
+["The technology that could revolutionize the war on hunger".] (http://www.washingtonpost.com/local/the-technology-that-could-revolutionize-the-war-on-hunger/2015/06/16/056d9d52-1114-11e5-adec-e82f8395c032_story.html?ncid=newsltushpmg00000003) By Terrence McCoy. June 16, 2015, for _The Washington Post_. 
+
 ["For government, OpenStreetMap is more than excellent data. It's a transformation".] (http://openstreetmap.us/2015/03/government-and-openstreetmap/) By Mikel Maron, Presidential Innovation Fellow and MapGive. March 2015, OpenStreetMap.US.
 
 ##Promoting Diversity in Mapping
