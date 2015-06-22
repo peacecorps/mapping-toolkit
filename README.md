@@ -13,6 +13,8 @@ ________
 
 Since digital mapping trainings successfully debuted at the Stomp Out Malaria Boot Camp, Peace Corps Volunteers and posts around the globe have worked to help their host communities put themselves “on the map” via OpenStreetMap (OSM). Geospatial data provides rigor to projects in every sector by enabling PCVs and counterparts to make data-driven decisions and visualize project info. PCVs who help their communities put themselves on OSM leave behind an incredibly useful, tangible resource and empower their communities to allocate resources more effectively, track the effects of climate change, participate in epidemiology, promote local businesses and more. Digital maps are also crucial for resilience building, and OSM is the map of choice for humanitarian responders in case of natural disaster. Peace Corps’ key role in international digital mapping efforts have been featured at the White House and presented at the United Nations.
 
+![Colleagues of a Peace Corps Volunteer in Botswana participate in a community mapping exercise using Field Papers.] (https://peacecorpsmappingproject.files.wordpress.com/2015/05/11041022_10102840788823389_5472521188633420721_o-1.jpg)
+
 ##Principles 
 
 Peace Corps Volunteers, staff and counterparts who use OpenStreetMap and other geospatial data in their work are encouraged to do so with the following principles in mind:
@@ -47,6 +49,8 @@ Projects in a Box include:
 
 4. One Month Project: OpenStreetMap Wall Mural
 
+![Students of a Peace Corps Volunteer in Nicaragua add their community to the map using the iD editor.] (https://peacecorpsmappingproject.files.wordpress.com/2015/05/11053893_843336679516_8267468404257874974_o.jpg)
+
 ##For Post Staff
 
 The Office of Innovation has identified several key opportunities to involve your post in the Peace Corps Mapping Initiative. We are happy to help facilitate any of the following activities, in addition to projects designed by your post or PCVS:
@@ -58,6 +62,8 @@ The Office of Innovation has identified several key opportunities to involve you
 **3. Virtual PCV and/or post staff trainings.** Via video chat, we offer trainings for your post staff and/or PCVs in OSM and the use of geospatial data. We’ll work with you to customize the trainings based on your sectors or post’s needs -- e.g. how to create an easy-to-edit map of your capital for your Safety and Security Manager. To date we have led virtual trainings for a range of clients, including the Mozambique’s Stomp Out Malaria committee and  Guyana’s SSM and Training Managers. 
 
 To involve your post in any of these activities, propose a different activity, or for more information please contact Courtney Clark, Mapping Initiative Lead, at cclark2@peacecorps.gov. 
+
+![A contributor to OpenStreetMap in Ghana.] (https://peacecorpsmappingproject.files.wordpress.com/2015/05/ghana-mapper.jpg)
 
 ##Right Now in Peace Corps
 
@@ -159,7 +165,9 @@ To involve your post in any of these activities, propose a different activity, o
 
 [GOTUS Steps out at the first ever White House Mapathon] (http://www.cnn.com/videos/politics/2015/06/01/first-annual-white-house-mapathon.cnn) includes shout-outs to Peace Corps and our student mapper, Charlie. Not shown in the video are the three Botswana PCVs who addressed the White House audience via Google Hangout. June 1, 2015.
 
-[Alice Deal Middle School's podcast] (http://dealmartini.podomatic.com/entry/2015-05-21T18_22_21-07_00) features the GIS club's experience mapping for Peace Corps communities on OSM. May 21, 2015.
+[Alice Deal Middle School's podcast] (http://dealmartini.podomatic.com/entry/2015-05-21T18_22_21-07_00) features the GIS club's experience mapping for Peace Corps communities on OSM. May 21, 2015. 
+
+![Alice Deal Middle School mapping participants] (https://peacecorpsmappingproject.files.wordpress.com/2015/06/img_3801.jpeg)
 
 ##Events
 
