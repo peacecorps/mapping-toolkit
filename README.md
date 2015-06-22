@@ -51,9 +51,11 @@ Projects in a Box include:
 
 The Office of Innovation has identified several key opportunities to involve your post in the Peace Corps Mapping Initiative. We are happy to help facilitate any of the following activities, in addition to projects designed by your post or PCVS:
 
-* 1. Invitee trainings. We offer an eight to ten week invitee engagement program that will train your invitees in OSM and the basics of geospatial data. The program requires about an hour of invitee time per week and includes an interactive video chat session. 
-* 2. Projects in a box. We have developed a series of short, engaging toolkits that any PCV can pick up and easily implement at site. All projects in a box plus other OSM and geospatial data resources can be found in our OSM toolkit on Github at http://bit.ly/1Rpaj8B. 
-* 3. Virtual PCV and/or post staff trainings. Via video chat, we offer trainings for your post staff and/or PCVs in OSM and the use of geospatial data. We’ll work with you to customize the trainings based on your sectors or post’s needs -- e.g. how to create an easy-to-edit map of your capital for your Safety and Security Manager. To date we have led virtual trainings for a range of clients, including the Mozambique’s Stomp Out Malaria committee and  Guyana’s SSM and Training Managers. 
+**1. Invitee trainings.** We offer an eight to ten week invitee engagement program that will train your invitees in OSM and the basics of geospatial data. The program requires about an hour of invitee time per week and includes an interactive video chat session. 
+
+**2. Projects in a box.** We have developed a series of short, engaging toolkits that any PCV can pick up and easily implement at site. All projects in a box plus other OSM and geospatial data resources can be found in our OSM toolkit on Github at http://bit.ly/1Rpaj8B. 
+
+**3. Virtual PCV and/or post staff trainings.** Via video chat, we offer trainings for your post staff and/or PCVs in OSM and the use of geospatial data. We’ll work with you to customize the trainings based on your sectors or post’s needs -- e.g. how to create an easy-to-edit map of your capital for your Safety and Security Manager. To date we have led virtual trainings for a range of clients, including the Mozambique’s Stomp Out Malaria committee and  Guyana’s SSM and Training Managers. 
 
 To involve your post in any of these activities, propose a different activity, or for more information please contact Courtney Clark, Mapping Initiative Lead, at cclark2@peacecorps.gov. 
 
