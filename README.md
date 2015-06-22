@@ -9,7 +9,11 @@ ________
 
 #OpenStreetMap (OSM) Toolkit
 
-##Principles and Toolkits
+##Introduction
+
+Since digital mapping trainings successfully debuted at the Stomp Out Malaria Boot Camp, Peace Corps Volunteers and posts around the globe have worked to help their host communities put themselves “on the map” via OpenStreetMap (OSM). Geospatial data provides rigor to projects in every sector by enabling PCVs and counterparts to make data-driven decisions and visualize project info. PCVs who help their communities put themselves on OSM leave behind an incredibly useful, tangible resource and empower their communities to allocate resources more effectively, track the effects of climate change, participate in epidemiology, promote local businesses and more. Digital maps are also crucial for resilience building, and OSM is the map of choice for humanitarian responders in case of natural disaster. Peace Corps’ key role in international digital mapping efforts have been featured at the White House and presented at the United Nations.
+
+##Principles 
 
 Peace Corps Volunteers, staff and counterparts who use OpenStreetMap and other geospatial data in their work are encouraged to do so with the following principles in mind:
 
@@ -29,7 +33,7 @@ Data collection and OpenStreetMap activities should intentionally promote divers
 
 Human Centered Design emphasizes empathy, optimism, learning from failure and rapid iteration -- the hallmarks of any great Peace Corps project. These principles should drive any data collection or OpenStreetMap activity. To learn more about how to use Human Centered Design in your Peace Corps work (highly recommended!), see IDEO's [Design Kit and Field Guide to Human Centered Design.] (http://www.designkit.org/)
 
-####Peace Corps OpenStreetMap Projects in a Box
+##Peace Corps OpenStreetMap Projects in a Box
 
 [Peace Corps OSM "Projects in Box"] (https://drive.google.com/open?id=0BxqYHzBUSr1NfnBlV2dnMVNhNmlCcC1zcnFqV204VVEzdXNvQmpNamkwMmhqZ0U3U214SWc&authuser=0) were written specifically for PCVs in the field and counterparts to put their communities on OSM in innovative ways. This content includes a Community Mapping Training Guide (in the Points of Interest doc) and guides to throwing mapping parties, adding local points of interest to OSM, bike and map tours, OSM map murals and more.  
 
@@ -42,6 +46,16 @@ Projects in a Box include:
 3. One Week Project: Bike and Map Tour
 
 4. One Month Project: OpenStreetMap Wall Mural
+
+##For Post Staff
+
+The Office of Innovation has identified several key opportunities to involve your post in the Peace Corps Mapping Initiative. We are happy to help facilitate any of the following activities, in addition to projects designed by your post or PCVS:
+
+* 1. Invitee trainings. We offer an eight to ten week invitee engagement program that will train your invitees in OSM and the basics of geospatial data. The program requires about an hour of invitee time per week and includes an interactive video chat session. 
+* 2. Projects in a box. We have developed a series of short, engaging toolkits that any PCV can pick up and easily implement at site. All projects in a box plus other OSM and geospatial data resources can be found in our OSM toolkit on Github at http://bit.ly/1Rpaj8B. 
+* 3. Virtual PCV and/or post staff trainings. Via video chat, we offer trainings for your post staff and/or PCVs in OSM and the use of geospatial data. We’ll work with you to customize the trainings based on your sectors or post’s needs -- e.g. how to create an easy-to-edit map of your capital for your Safety and Security Manager. To date we have led virtual trainings for a range of clients, including the Mozambique’s Stomp Out Malaria committee and  Guyana’s SSM and Training Managers. 
+
+To involve your post in any of these activities, propose a different activity, or for more information please contact Courtney Clark, Mapping Initiative Lead, at cclark2@peacecorps.gov. 
 
 ##Right Now in Peace Corps
 
