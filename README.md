@@ -117,6 +117,8 @@ To involve your post in any of these activities, propose a different activity, o
 
 ["Botswana Weekly Awesome: How do you eat an elephant?"] (http://stompoutmalaria.org/botswana-weekly-awesome-how-do-you-eat-an-elephant/) By Theresa Govert, Peace Corps Botswana. October 30, 2014, Stomp Out Malaria. 
 
+["OpenStreetMap: Mapping Power to the People".] (https://medium.com/@ricaji/openstreetmap-mapping-power-to-the-people-e938c38da93d) By Erica Hagen, Founder of Map Kibera. June 5, 2015, Medium. 
+
 [OSM Humanitarian and Government Case Studies] (http://osmlab.github.io/basket/)
 
 ["The technology that could revolutionize the war on hunger".] (http://www.washingtonpost.com/local/the-technology-that-could-revolutionize-the-war-on-hunger/2015/06/16/056d9d52-1114-11e5-adec-e82f8395c032_story.html?ncid=newsltushpmg00000003) By Terrence McCoy. June 16, 2015, for _The Washington Post_. 
