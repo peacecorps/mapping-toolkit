@@ -6,9 +6,6 @@ To contribute, click README.md and then the pencil icon. Make your changes and c
 ***The links and associated context is provided as-is, and any link or reference to external materials is not an endorsement of that material on the part of Peace Corps.
 
 ________
-
-#OpenStreetMap (OSM) Toolkit
-
 ##Introduction
 
 Since digital mapping trainings successfully debuted at the Stomp Out Malaria Boot Camp, Peace Corps Volunteers and posts around the globe have worked to help their host communities put themselves “on the map” via OpenStreetMap (OSM). Geospatial data provides rigor to projects in every sector by enabling PCVs and counterparts to make data-driven decisions and visualize project info. PCVs who help their communities put themselves on OSM leave behind an incredibly useful, tangible resource and empower their communities to allocate resources more effectively, track the effects of climate change, participate in epidemiology, promote local businesses and more. Digital maps are also crucial for resilience building, and OSM is the map of choice for humanitarian responders in case of natural disaster. Peace Corps’ key role in international digital mapping efforts have been featured at the White House and presented at the United Nations.
