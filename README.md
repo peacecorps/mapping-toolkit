@@ -91,7 +91,25 @@ To involve your post in any of these activities, propose a different activity, o
 
 [MapOSMatic] (http://www.maposmatic.org/) is a free software web service that allows you to generate maps of cities using OpenStreetMap data. The generated maps are available in PNG, PDF and SVG formats and are ready to be printed.
 
-##GIS (Geographic Information System) Tutorials
+##Map community building with Maptime
+
+[Maptime] (http://maptime.io/about/) is an open learning environment for all levels and degrees of knowledge, offering intentional educational support for the beginner. Maptime is simultaneously flexible and structured, creating space for mapping tutorials, workshops, ongoing projects with a shared goal, and independent/collaborative work time. Beginners most welcome!
+
+Inspiration for Maptime comes from both hack nights and knitting circles. Both are models of spaces for people to create and learn together. Our goal is to provide this space with an open heart and without pretension. You can bring your own projects to work on, or just hang out and socialize or ask questions. Some people are experts, and some people are just getting started, but all of us are learning, so why not do it together?
+
+That’s our story. Come be a part of it.
+
+Maps for all forever! --From the Maptime website
+
+Anyone can start a chapter! See a list of current Maptime chapters [here] (http://maptime.io/chapters/). We'd love for Peace Corps Volunteers and counterparts to experiment with starting a Maptime chapter at their site or in their nearest city. For more information about starting a chapter, email hello@maptime.io. And then let Courtney Clark know at cclark2@peacecorps.gov, because you're awesome and she'll want to brag about you. 
+
+##GIS (Geographic Information System) and Mapping Tools and Tutorials
+
+[What your favorite map projection says about you, a la XKCD] (http://xkcd.com/977/)
+
+[Introduction to Geographic Data Formats from Maptime] (http://maptime.io/geodata/#0)
+
+[Anatomy of a Web Map from Maptime, by Alan McConchie and Beth Schechter] (http://maptime.io/anatomy-of-a-web-map/#0)
 
 [CartoDB Map Academy.] (http://academy.cartodb.com/) Learn to create maps on the web and visualize geospatial data using CartoDB.
 
@@ -99,7 +117,15 @@ To involve your post in any of these activities, propose a different activity, o
 
 [QGIS Tutorials and Tips] (http://www.qgistutorials.com/en/)
 
-[QGIS Walkthrough.] (https://www.youtube.com/watch?v=L0r1GNTT-0o) TechChange on Youtube. February 12, 2015. 
+[QGIS Walkthrough.] (https://www.youtube.com/watch?v=L0r1GNTT-0o) TechChange on Youtube. February 12, 2015.
+
+[QGIS Interactive Tutorial from Harvard] (http://maps.cga.harvard.edu/qgis/)
+
+[Mapping with Google Fusion Tables from Maptime and Alan McConchie of Stamen Design] (http://mappingmashups.net/2012/11/29/mapping-with-google-fusion-tables/)
+
+[Intro to Leaflet from Maptime Boston] (http://maptimeboston.github.io/leaflet-intro/)
+
+[Intro to Leaflet from JS Luxembourg] (http://luxembourgjs.github.io/leaflet-demo/#/)
 
 [Penn State Open Educational Resources -- Geography.] (http://open.ems.psu.edu/courseware) Penn State offers a wide range of free online geography and GIS courses, including Problem-Solving with GIS, Cartography and Visualization, Open Web Mapping, and Location Intelligence for Business. 
 
