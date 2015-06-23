@@ -88,6 +88,8 @@ To involve your post in any of these activities, propose a different activity, o
 
 [MapOSMatic] (http://www.maposmatic.org/) is a free software web service that allows you to generate maps of cities using OpenStreetMap data. The generated maps are available in PNG, PDF and SVG formats and are ready to be printed.
 
+[Mapillary] (http://www.mapillary.com/map) is a service for crowdsourcing map photos. 
+
 ##Map community building with Maptime
 
 [Maptime] (http://maptime.io/about/) is an open learning environment for all levels and degrees of knowledge, offering intentional educational support for the beginner. Maptime is simultaneously flexible and structured, creating space for mapping tutorials, workshops, ongoing projects with a shared goal, and independent/collaborative work time. Beginners most welcome!
