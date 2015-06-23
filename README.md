@@ -101,6 +101,8 @@ That’s our story. Come be a part of it.
 
 Maps for all forever! --From the Maptime website
 
+![Maptime logo] (https://raw.githubusercontent.com/maptime/maptime.github.io/master/img/xmaptime-logo-web-header-rainbonly.png.pagespeed.ic.sUvy41gYSf.png)
+
 Anyone can start a chapter! See a list of current Maptime chapters [here] (http://maptime.io/chapters/). We'd love for Peace Corps Volunteers and counterparts to experiment with starting a Maptime chapter at their site or in their nearest city. For more information about starting a chapter, email hello@maptime.io. And then let Courtney Clark know at cclark2@peacecorps.gov, because you're awesome and she'll want to brag about you. 
 
 ##GIS (Geographic Information System) and Mapping Tools and Tutorials
