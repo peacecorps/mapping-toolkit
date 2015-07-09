@@ -50,7 +50,7 @@ Projects in a Box include:
 
 ##Peace Corps Mapping Trainings
 
-While any good Peace Corps trainer will always customize resources and knowledge to fit their local context, this template provides a great starting point for Peace Corps Volunteers, staff and counterparts to present an introduction to mapmaking. An "Intro to Mapping for Peace Corps" slide deck can be found [here] (https://docs.google.com/presentation/d/1vhoaPy0jB4CuUi76ypZmjyZO6ueBjigVwF8bRM-pzlI/edit?usp=sharing). 
+While any good Peace Corps trainer will always customize resources and knowledge to fit their local context, this template provides a great starting point for Peace Corps Volunteers, staff and counterparts to present an introduction to mapmaking. The "Intro to Mapping for Peace Corps" slide deck can be found [here] (https://docs.google.com/presentation/d/1vhoaPy0jB4CuUi76ypZmjyZO6ueBjigVwF8bRM-pzlI/edit?usp=sharing). 
 
 ##For Post Staff
 
