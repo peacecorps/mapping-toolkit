@@ -48,6 +48,10 @@ Projects in a Box include:
 
 ![Students of a Peace Corps Volunteer in Nicaragua add their community to the map using the iD editor.](https://peacecorpsmappingproject.files.wordpress.com/2015/05/11053893_843336679516_8267468404257874974_o.jpg)
 
+##Peace Corps Mapping Trainings
+
+While any good Peace Corps trainer will always customize resources and knowledge to fit their local context, this template provides a great starting point for Peace Corps Volunteers, staff and counterparts to present an introduction to mapmaking. The "Intro to Mapping for Peace Corps" slide deck can be found [here] (https://docs.google.com/presentation/d/1vhoaPy0jB4CuUi76ypZmjyZO6ueBjigVwF8bRM-pzlI/edit?usp=sharing). 
+
 ##For Post Staff
 
 The Office of Innovation has identified several key opportunities to involve your post in the Peace Corps Mapping Initiative. We are happy to help facilitate any of the following activities, in addition to projects designed by your post or PCVS:
@@ -78,7 +82,13 @@ To involve your post in any of these activities, propose a different activity, o
 
 [TeachOSM](http://teachosm.org/en/) offers a great curriculum for educators to incorporate OSM into their classrooms. The site includes assessment tools and case studies. 
 
+<<<<<<< HEAD
 [Basics of Geodata and Open Mapping,](https://www.youtube.com/watch?v=LZaa8jIUDVY) Max Richman for Tech Change on Youtube. January 20, 2015. 
+=======
+[Be a Mapper] (http://beamapper.com/) provides a basic but clear overview of how to join the OpenStreetMap community. 
+
+[Basics of Geodata and Open Mapping,] (https://www.youtube.com/watch?v=LZaa8jIUDVY) Max Richman for Tech Change on Youtube. January 20, 2015. 
+>>>>>>> origin/master
 
 ##OSM Tools
 
@@ -89,6 +99,8 @@ To involve your post in any of these activities, propose a different activity, o
 [Big Map](http://wiki.openstreetmap.org/wiki/Bigmap) is a free software web service that allows you to print large maps of OSM data from your browser.
 
 [MapOSMatic](http://www.maposmatic.org/) is a free software web service that allows you to generate maps of cities using OpenStreetMap data. The generated maps are available in PNG, PDF and SVG formats and are ready to be printed.
+
+[Mapillary] (http://www.mapillary.com/map) is a service for crowdsourcing map photos. 
 
 ##Map community building with Maptime
 
