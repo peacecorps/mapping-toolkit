@@ -48,6 +48,10 @@ Projects in a Box include:
 
 ![Students of a Peace Corps Volunteer in Nicaragua add their community to the map using the iD editor.] (https://peacecorpsmappingproject.files.wordpress.com/2015/05/11053893_843336679516_8267468404257874974_o.jpg)
 
+##Peace Corps Mapping Trainings
+
+While any good Peace Corps trainer will always customize resources and knowledge to fit their local context, this template provides a great starting point for Peace Corps Volunteers, staff and counterparts to present an introduction to mapmaking. An "Intro to Mapping for Peace Corps" slide deck can be found [here] (https://docs.google.com/presentation/d/1vhoaPy0jB4CuUi76ypZmjyZO6ueBjigVwF8bRM-pzlI/edit?usp=sharing). 
+
 ##For Post Staff
 
 The Office of Innovation has identified several key opportunities to involve your post in the Peace Corps Mapping Initiative. We are happy to help facilitate any of the following activities, in addition to projects designed by your post or PCVS:
