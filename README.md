@@ -14,7 +14,7 @@ Since digital mapping trainings successfully debuted at the Stomp Out Malaria Bo
 
 ##Principles 
 
-Peace Corps Volunteers, staff and counterparts who use OpenStreetMap and other geospatial data in their work are encouraged to do so with the following principles in mind (with many thanks to the fantastic Peace Corps [T4D Playbook] ( :
+Peace Corps Volunteers, staff and counterparts who use OpenStreetMap and other geospatial data in their work are encouraged to do so with the following principles in mind (with many thanks to the fantastic Peace Corps [T4D Playbook] (https://github.com/PeaceCorps/t4d-playbook) :
 
 ####1. Listen to the community
 Volunteers put in the time, the energy, and the importance of becoming a part of their communities and understanding them to the best of their abilities. Think of your communities first, and on the impact that your efforts will have on the lives of those around them. Focus on enabling environments and empowerment for those closest to the problem.
@@ -28,22 +28,22 @@ Focus on solving local problems that are debated, defined and refined by local p
 ####4. Co-create and build with buy-in
 Legitimize at all levels (political, managerial and social), building ownership and momentum throughout the process to be ‘locally owned’ in reality (not just on paper). Volunteers are by nature and training inclusive. They bring anyone and everyone to the table—the ones with strong voices as well as those who have not traditionally had a voice at the table. Peace Corps knows that we can go further, together. 
 
-#####5. Tinker, make, do
+####5. Tinker, make, do
 Volunteers are tinkerers, makers, and hackers. Volunteers do more with less. They help their communities to start where they are, use what they have, and do what they can—starting the day they arrive.
 
-####1. Open data
+####6. Open data
 
 Data that can be open and accessible should be open and accessible. In other words, if you collect geospatial data that would be of genuine interest to the public, such as points of interest or alternate names of villages, you should include it in OpenStreetMap so that others may benefit from your work. Data should be stored in machine-readable formats such as spreadsheets or CSV files, rather than PDFs, when possible. For an introduction to open data, read the Open Knowledge Foundation's [Open Data Handbook.](https://drive.google.com/file/d/0B0Vr8VHoYeB7U2NTczFYRE01RU0/view)
 
-####2. Humans > data, always
+####7. Humans > data, always
 
 Volunteers think first of their communities, and look to help them in ways that protect the privacy, safety, and security of everyone they engage with. Some data that Peace Corps Volunteers and their colleagues collect and use -- for example, in public health projects -- could contain personal and sensitive information about humans that needs to be well-protected and secured. For solid tips on data responsibility, read ["Shooting our hard drive into space and other ways to practice responsible development data".](https://drive.google.com/file/d/0B0Vr8VHoYeB7cEk1STFlRTJjOWM/edit) 
 
-####3. Diversity and inclusivity
+####8. Diversity and inclusivity
 
 Data collection and OpenStreetMap activities should intentionally promote diversity and inclusivity. Peace Corps Volunteers and counterparts should include minority populations, such as women, in their data collection and OpenStreetMap projects. Data collection tends to incorporate implicit biases, especially regarding women and groups that don't identify with binary genders. For more information, read TechChange's ["The Case for Gender Data".](https://www.techchange.org/2015/04/17/global-development-gender-data/)
 
-####4. Human Centered Design
+####9. Human Centered Design
 
 Human Centered Design emphasizes empathy, optimism, learning from failure and rapid iteration -- the hallmarks of any great Peace Corps project. Blend design and implementation through rapid cycles of planning, action, reflection and revision (drawing on local knowledge, feedback and energy) to foster learning from both success and failure. Manage risks by making ‘small bets’: pursuing activities with promise and dropping others. To learn more about how to use Human Centered Design in your Peace Corps work (highly recommended!), see IDEO's [Design Kit and Field Guide to Human Centered Design.](http://www.designkit.org/)
 
