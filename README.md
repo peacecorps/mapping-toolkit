@@ -84,12 +84,9 @@ To involve your post in any of these activities, propose a different activity, o
 
 [Basics of Geodata and Open Mapping,](https://www.youtube.com/watch?v=LZaa8jIUDVY) Max Richman for Tech Change on Youtube. January 20, 2015. 
 
-=======
-
 [Be a Mapper] (http://beamapper.com/) provides a basic but clear overview of how to join the OpenStreetMap community. 
 
 [Basics of Geodata and Open Mapping,] (https://www.youtube.com/watch?v=LZaa8jIUDVY) Max Richman for Tech Change on Youtube. January 20, 2015. 
->>>>>>> origin/master
 
 ##OSM Tools
 
@@ -142,8 +139,6 @@ Anyone can start a chapter! See a list of current Maptime chapters [here](http:/
 [QGIS](http://www.qgis.org/en/site/) -- Free and Open Source Geographic Information System
 
 [OpenStreetMap HOT Maps](http://wiki.openstreetmap.org/wiki/Humanitarian_OSM_Team/HOT_Package)
-
-
 
 
 
@@ -416,7 +411,6 @@ Anyone can start a chapter! See a list of current Maptime chapters [here](http:/
 
 
 
-## Upcoming Events
 
 ## Email lists
 
