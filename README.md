@@ -91,7 +91,7 @@ To involve your post in any of these activities, propose a different activity, o
 
 ##OSM Tutorials
 
-[MapGive](www.mapgive.state.gov) is an initiative of the State Department's Humanitarian Information Unit. MapGive features several highly recommended video tutorials explaining the importance of OSM for humanitarian response and how to edit using the iD editor.
+[MapGive](http://mapgive.state.gov/) is an initiative of the State Department's Humanitarian Information Unit. MapGive features several highly recommended video tutorials explaining the importance of OSM for humanitarian response and how to edit using the iD editor.
 
 [LearnOSM](http://learnosm.org/en/) offers tutorials on a variety of OSM topics, including the iD editor, the JOSM editor, Field Papers, organizing mapping trainings, remote mappings, using a GPS device and more. Tutorials are in English, German, French, Croatian, Bahasa Indonesia, Italian, Chinese, Norwegian, Portuguese, Russian and Kiswahili. 
 
