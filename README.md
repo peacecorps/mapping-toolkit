@@ -59,7 +59,9 @@ Projects in a Box include:
 
 3. One Week Project: Bike and Map Tour
 
-4. One Month Project: OpenStreetMap Wall Mural
+4. One Week Project: Girls Map! 
+
+5. One Month Project: OpenStreetMap Wall Mural
 
 ![Students of a Peace Corps Volunteer in Nicaragua add their community to the map using the iD editor.](https://peacecorpsmappingproject.files.wordpress.com/2015/05/11053893_843336679516_8267468404257874974_o.jpg)
 
@@ -100,8 +102,6 @@ To involve your post in any of these activities, propose a different activity, o
 [Basics of Geodata and Open Mapping,](https://www.youtube.com/watch?v=LZaa8jIUDVY) Max Richman for Tech Change on Youtube. January 20, 2015. 
 
 [Be a Mapper] (http://beamapper.com/) provides a basic but clear overview of how to join the OpenStreetMap community. 
-
-[Basics of Geodata and Open Mapping,] (https://www.youtube.com/watch?v=LZaa8jIUDVY) Max Richman for Tech Change on Youtube. January 20, 2015. 
 
 ##OSM Tools
 
