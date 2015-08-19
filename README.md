@@ -157,7 +157,7 @@ Anyone can start a chapter! See a list of current Maptime chapters [here](http:/
 
 ## Readings and Articles
 
-["The last unmapped places on Earth", BBC] (www.bbc.com/future/story/20141127-the-last-unmapped-places)
+["The last unmapped places on Earth",] (www.bbc.com/future/story/20141127-the-last-unmapped-places) BBC. November 28, 2014.
 
 [The Quick and Dirty on Data Visualization,](https://hbr.org/2014/04/the-quick-and-dirty-on-data-visualization/) Harvard Business Review. April 16, 2014.
 
