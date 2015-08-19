@@ -141,8 +141,6 @@ Anyone can start a chapter! See a list of current Maptime chapters [here](http:/
 
 [Harvard Introduction to GIS.](http://hcl.harvard.edu/libraries/maps/gis/tutorials.html) This introduction to GIS tutorial consists of a three-part movie accompanied by hands-on exercises. An ArcGIS license is required to complete the exercises. 
 
-
-
 ## Software and Platforms
 
 [ESRI - ArcGIS](http://www.arcgis.com/home/index.html) -- Leader in GIS software and solutions
@@ -157,8 +155,9 @@ Anyone can start a chapter! See a list of current Maptime chapters [here](http:/
 
 
 
-
 ## Readings and Articles
+
+["The last unmapped places on Earth", BBC] (www.bbc.com/future/story/20141127-the-last-unmapped-places)
 
 [The Quick and Dirty on Data Visualization,](https://hbr.org/2014/04/the-quick-and-dirty-on-data-visualization/) Harvard Business Review. April 16, 2014.
 
@@ -229,7 +228,6 @@ Anyone can start a chapter! See a list of current Maptime chapters [here](http:/
 [OSM Humanitarian and Government Case Studies](http://osmlab.github.io/basket/)
 
 ["The technology that could revolutionize the war on hunger".](http://www.washingtonpost.com/local/the-technology-that-could-revolutionize-the-war-on-hunger/2015/06/16/056d9d52-1114-11e5-adec-e82f8395c032_story.html?ncid=newsltushpmg00000003) By Terrence McCoy. June 16, 2015, for _The Washington Post_. 
-
 ["For government, OpenStreetMap is more than excellent data. It's a transformation".](http://openstreetmap.us/2015/03/government-and-openstreetmap/) By Mikel Maron, Presidential Innovation Fellow and MapGive. March 2015, OpenStreetMap.US.
 
 ["Let Data Drive Your Projects"](http://issuu.com/peacecorps/docs/pc-15-q2-116_pages_center/1?e=3593068/13460098) features Peace Corps Botswana's use of OSM and GIS tools for malaria eradication. June, 2015, _Peace Corps Times_
@@ -343,6 +341,12 @@ Anyone can start a chapter! See a list of current Maptime chapters [here](http:/
 
 
 ## Interesting and Useful Examples
+
+[How GIS Empowers You to Build a Smart Community] (https://www.govloop.com/wp-content/uploads/2015/06/Esri-Smarter-Communities-Infographic.pdf)
+
+[Building Healthy Communities with GIS] (http://event.lvl3.on24.com/event/10/25/70/3/rt/1/documents/resourceList1439397744958/building_healthy_communities_ip.pdf)
+
+[Building Healthy Communities with GIS Slide Deck] (https://www.govloop.com/wp-content/uploads/2015/08/Esri-OT-8.13-PDF.pdf)
 
 [Mapping Latinos in the US Example](http://developmentseed.org/blog/2011/oct/10/mapping-latinos-united-states-npr/)
 
